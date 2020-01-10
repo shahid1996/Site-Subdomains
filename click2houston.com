@@ -4,8 +4,11 @@ amp.click2houston.com
 api.click2houston.com
 beta.click2houston.com
 collegehoops.click2houston.com
-click2houston.com<BR>www.click2houston.com
-click2houston.com<BR>media.click2houston.com<BR>www.click2houston.com
+click2houston.com
+www.click2houston.com
+click2houston.com
+media.click2houston.com
+www.click2houston.com
 creative.click2houston.com
 event.click2houston.com
 events.click2houston.com

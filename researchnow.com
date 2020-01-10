@@ -1,5 +1,7 @@
-NALLPRDEXPE.researchnow.com<BR>researchnow.com
-NSYDRSNCUCSUB01.researchnow.com<BR>researchnow.com
+NALLPRDEXPE.researchnow.com
+researchnow.com
+NSYDRSNCUCSUB01.researchnow.com
+researchnow.com
 www.researchnow.com
 NALLRSNCUCSUB01.researchnow.com
 adimension-bi.researchnow.com
@@ -13,7 +15,8 @@ careers.researchnow.com
 cdn.researchnow.com
 cdn3.researchnow.com
 chinacheckjs.researchnow.com
-researchnow.com<BR>www.researchnow.com
+researchnow.com
+www.researchnow.com
 csat.researchnow.com
 da-prod.researchnow.com
 developers.researchnow.com

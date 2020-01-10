@@ -1,6 +1,9 @@
 www.techspot.com
-static.techspot.com<BR>techspot.com<BR>www.techspot.com
-techspot.com<BR>www.techspot.com
+static.techspot.com
+techspot.com
+www.techspot.com
+techspot.com
+www.techspot.com
 files01.techspot.com
 files02.techspot.com
 in.techspot.com

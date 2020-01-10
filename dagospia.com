@@ -1,0 +1,12 @@
+www.dagospia.com
+app.dagospia.com
+archivio.dagospia.com
+cdn-static.dagospia.com
+cdn-static.dagospia.com
+m.dagospia.com
+www.dagospia.com
+dagostatic.dagospia.com
+m.dagospia.com
+media.dagospia.com
+ricerca.dagospia.com
+static.dagospia.com

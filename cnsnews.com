@@ -1,8 +1,12 @@
 www.cnsnews.com
 cdn.cnsnews.com
-cnsnews.com<BR>www.cnsnews.com
-cdn.cnsnews.com<BR>www.cnsnews.com
-cdn.cnsnews.com<BR>cnsnews.com<BR>www.cnsnews.com
+cnsnews.com
+www.cnsnews.com
+cdn.cnsnews.com
+www.cnsnews.com
+cdn.cnsnews.com
+cnsnews.com
+www.cnsnews.com
 dev.cnsnews.com
 m.cnsnews.com
 www.m.cnsnews.com

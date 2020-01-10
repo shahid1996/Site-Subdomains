@@ -7,8 +7,10 @@ bamm.sitepoint.com
 blogs.sitepoint.com
 cdn.sitepoint.com
 ci.sitepoint.com
-sitepoint.com<BR>www.sitepoint.com
-jabber.sitepoint.com<BR>xmpp.sitepoint.com
+sitepoint.com
+www.sitepoint.com
+jabber.sitepoint.com
+xmpp.sitepoint.com
 community.sitepoint.com
 contests.sitepoint.com
 www.contests.sitepoint.com
@@ -42,9 +44,11 @@ ads.s3.sitepoint.com
 photoshop.s3.sitepoint.com
 sale.sitepoint.com
 shop.sitepoint.com
-ci.sitepoint.com<BR>ci.us-west-2b.sitepoint.sitepoint.com
+ci.sitepoint.com
+ci.us-west-2b.sitepoint.sitepoint.com
 ci.us-west-2b.sitepoint-staging.sitepoint.com
-us-west-2b.sitepoint-staging.sitepoint.com<BR>www.us-west-2b.sitepoint-staging.sitepoint.com
+us-west-2b.sitepoint-staging.sitepoint.com
+www.us-west-2b.sitepoint-staging.sitepoint.com
 mailing.us-west-2b.sitepoint-staging.sitepoint.com
 metabase.us-west-2b.sitepoint-staging.sitepoint.com
 monitoring.us-west-2b.sitepoint-staging.sitepoint.com

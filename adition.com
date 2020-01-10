@@ -45,8 +45,13 @@ betatest.adition.com
 bugstest.adition.com
 calendar.adition.com
 cd.adition.com
-adition.com<BR>de.adition.com<BR>en.adition.com
-adition.com<BR>de.adition.com<BR>en.adition.com<BR>www.adition.com
+adition.com
+de.adition.com
+en.adition.com
+adition.com
+de.adition.com
+en.adition.com
+www.adition.com
 dbt.adition.com
 de.adition.com
 debug.adition.com

@@ -1,2 +1,4 @@
 www.lua.org
-lua.org<BR>wiki.lua.org<BR>www.lua.org
+lua.org
+wiki.lua.org
+www.lua.org

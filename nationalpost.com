@@ -7,9 +7,13 @@ wpmedia.arts.nationalpost.com
 citylife.nationalpost.com
 staging.citylife.nationalpost.com
 classifieds.nationalpost.com
-nationalpost.com<BR>news.nationalpost.com
-nationalpost.com<BR>preprod.nationalpost.com
-nationalpost.com<BR>news.nationalpost.com<BR>preprod.nationalpost.com
+nationalpost.com
+news.nationalpost.com
+nationalpost.com
+preprod.nationalpost.com
+nationalpost.com
+news.nationalpost.com
+preprod.nationalpost.com
 digital.nationalpost.com
 enews.e.nationalpost.com
 media.e.nationalpost.com

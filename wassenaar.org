@@ -15,7 +15,8 @@ lpl1.wassenaar.org
 mail.wassenaar.org
 mobilewais.wassenaar.org
 office.wassenaar.org
-wassenaar.org<BR>www.wassenaar.org
+wassenaar.org
+www.wassenaar.org
 pwl1.wassenaar.org
 rpl1.wassenaar.org
 test.wassenaar.org

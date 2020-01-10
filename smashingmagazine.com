@@ -1,8 +1,10 @@
 www.smashingmagazine.com
 anniversary.smashingmagazine.com
 coding.smashingmagazine.com
-shopify.smashingmagazine.com<BR>shop.smashingmagazine.com
-smashingmagazine.com<BR>www.smashingmagazine.com
+shopify.smashingmagazine.com
+shop.smashingmagazine.com
+smashingmagazine.com
+www.smashingmagazine.com
 designinformer.smashingmagazine.com
 directory.smashingmagazine.com
 files.smashingmagazine.com
@@ -15,7 +17,8 @@ media.smashingmagazine.com
 mgmt.smashingmagazine.com
 mmobile.smashingmagazine.com
 mobile.smashingmagazine.com
-mshop.smashingmagazine.com<BR>www.mshop.smashingmagazine.com
+mshop.smashingmagazine.com
+www.mshop.smashingmagazine.com
 muxdesign.smashingmagazine.com
 mwp.smashingmagazine.com
 network.smashingmagazine.com

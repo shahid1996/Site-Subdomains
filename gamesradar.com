@@ -3,10 +3,14 @@ api.gamesradar.com
 live.fte.beta.gamesradar.com
 stage.fte.beta.gamesradar.com
 consent.cmp.gamesradar.com
-consent.cmp.gamesradar.com<BR>gamesradar.com<BR>www.gamesradar.com
-gamesradar.com<BR>www.gamesradar.com
+consent.cmp.gamesradar.com
+gamesradar.com
+www.gamesradar.com
+gamesradar.com
+www.gamesradar.com
 contests.gamesradar.com
-contests.gamesradar.com<BR>www.contests.gamesradar.com
+contests.gamesradar.com
+www.contests.gamesradar.com
 deals.gamesradar.com
 dl.gamesradar.com
 email.gamesradar.com

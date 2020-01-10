@@ -1,4 +1,5 @@
-beta.deadline.com<BR>deadline.com
+beta.deadline.com
+deadline.com
 www.deadline.com
 afterthe.deadline.com
 akimage.deadline.com
@@ -11,9 +12,15 @@ cdn3.deadline.com
 cfimage.deadline.com
 cfmedia.deadline.com
 cfstatic.deadline.com
-cfimage.deadline.com<BR>cfmedia.deadline.com<BR>cfstatic.deadline.com<BR>cloudflare.deadline.com
-contenders.deadline.com<BR>deadline.com<BR>www.deadline.com
-deadline.com<BR>www.deadline.com
+cfimage.deadline.com
+cfmedia.deadline.com
+cfstatic.deadline.com
+cloudflare.deadline.com
+contenders.deadline.com
+deadline.com
+www.deadline.com
+deadline.com
+www.deadline.com
 contenders.deadline.com
 contendersemmys.deadline.com
 contendersemmys2018.deadline.com
@@ -22,7 +29,9 @@ contendersla2019.deadline.com
 contenderslondon.deadline.com
 email.deadline.com
 click.email.deadline.com
-click.email.deadline.com<BR>pages.email.deadline.com<BR>view.email.deadline.com
+click.email.deadline.com
+pages.email.deadline.com
+view.email.deadline.com
 image.email.deadline.com
 pages.email.deadline.com
 view.email.deadline.com

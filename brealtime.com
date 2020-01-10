@@ -2,9 +2,11 @@ www.brealtime.com
 biddr.brealtime.com
 biddr-cloud.brealtime.com
 bounce.brealtime.com
-brealtime.com<BR>www.brealtime.com
+brealtime.com
+www.brealtime.com
 console.brealtime.com
-console.brealtime.com<BR>www.console.brealtime.com
+console.brealtime.com
+www.console.brealtime.com
 controlcenter.brealtime.com
 cookie.brealtime.com
 dashboard.brealtime.com

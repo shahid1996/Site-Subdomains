@@ -3,11 +3,14 @@ api.onlyfans.com
 blog.onlyfans.com
 bug.onlyfans.com
 cdn.onlyfans.com
-cdn2.onlyfans.com<BR>static.cdn.onlyfans.com
+cdn2.onlyfans.com
+static.cdn.onlyfans.com
 static.cdn.onlyfans.com
 cdn2.onlyfans.com
-cdn.onlyfans.com<BR>upload.onlyfans.com
-onlyfans.com<BR>www.onlyfans.com
+cdn.onlyfans.com
+upload.onlyfans.com
+onlyfans.com
+www.onlyfans.com
 connect.onlyfans.com
 convert.onlyfans.com
 ca.convert.onlyfans.com

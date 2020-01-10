@@ -5,7 +5,8 @@ blocknik.futurism.com
 cdn.futurism.com
 cdn1.futurism.com
 cdn2.futurism.com
-futurism.com<BR>wordpress.futurism.com
+futurism.com
+wordpress.futurism.com
 explorist.futurism.com
 jobs.futurism.com
 motf.futurism.com

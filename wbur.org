@@ -32,7 +32,8 @@ genstuck.wbur.org
 getit.wbur.org
 guides.wbur.org
 www.guides.wbur.org
-guides.wbur.org<BR>www.guides.wbur.org
+guides.wbur.org
+www.guides.wbur.org
 healthcaresavvy.wbur.org
 www.healthcaresavvy.wbur.org
 hereandnow.wbur.org
@@ -71,7 +72,8 @@ plannedgiving.wbur.org
 player.wbur.org
 publicradiokitchen.wbur.org
 radioboston.wbur.org
-recommends.wbur.org<BR>www.recommends.wbur.org
+recommends.wbur.org
+www.recommends.wbur.org
 remote.wbur.org
 www.remote.wbur.org
 rss.wbur.org
@@ -95,7 +97,8 @@ thewildlife.wbur.org
 tools.wbur.org
 underwriting.wbur.org
 upload.wbur.org
-upload.wbur.org<BR>www.upload.wbur.org
+upload.wbur.org
+www.upload.wbur.org
 wordpress.wbur.org
 worldofideas.wbur.org
 wwww.wbur.org

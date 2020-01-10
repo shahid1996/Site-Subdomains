@@ -1,3 +1,9 @@
 www.thepiratebay.wiki
-thepiratebay.wiki<BR>www.thepiratebay.wiki
-cpanel.thepiratebay.wiki<BR>mail.thepiratebay.wiki<BR>thepiratebay.wiki<BR>webdisk.thepiratebay.wiki<BR>webmail.thepiratebay.wiki<BR>www.thepiratebay.wiki
+thepiratebay.wiki
+www.thepiratebay.wiki
+cpanel.thepiratebay.wiki
+mail.thepiratebay.wiki
+thepiratebay.wiki
+webdisk.thepiratebay.wiki
+webmail.thepiratebay.wiki
+www.thepiratebay.wiki

@@ -36,8 +36,10 @@ oauth.filezilla-project.org
 offer.filezilla-project.org
 offers.filezilla-project.org
 www.offers.filezilla-project.org
-bugs.filezilla-project.org<BR>bugzilla.filezilla-project.org
-filezilla-project.org<BR>www.filezilla-project.org
+bugs.filezilla-project.org
+bugzilla.filezilla-project.org
+filezilla-project.org
+www.filezilla-project.org
 offers.filezilla-project.orgoffers.filezilla-project.org
 ownload.filezilla-project.org
 probe.filezilla-project.org

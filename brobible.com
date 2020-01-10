@@ -2,7 +2,8 @@ www.brobible.com
 ad-cdn.brobible.com
 cdn.brobible.com
 cdn-assets.brobible.com
-brobible.com<BR>www.brobible.com
+brobible.com
+www.brobible.com
 files.brobible.com
 googletv.brobible.com
 images.brobible.com
@@ -10,7 +11,8 @@ m.brobible.com
 magnify.brobible.com
 profile.brobible.com
 push.brobible.com
-push.brobible.com<BR>www.push.brobible.com
+push.brobible.com
+www.push.brobible.com
 shop.brobible.com
 t.brobible.com
 widgets.brobible.com

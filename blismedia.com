@@ -1,6 +1,7 @@
 www.blismedia.com
 blog.blismedia.com
-blismedia.com<BR>www.blismedia.com
+blismedia.com
+www.blismedia.com
 creative.blismedia.com
 ecs.blismedia.com
 tr.gcp.blismedia.com
@@ -17,7 +18,8 @@ rc.rtb.infinity.blismedia.com
 omg.blismedia.com
 path.blismedia.com
 platform.blismedia.com
-platform.blismedia.com<BR>www.platform.blismedia.com
+platform.blismedia.com
+www.platform.blismedia.com
 poi.blismedia.com
 google-api.secure.blismedia.com
 dsp.jenkins.secure.blismedia.com

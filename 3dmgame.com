@@ -10,7 +10,8 @@ att.3dmgame.com
 bbs.3dmgame.com
 bt.3dmgame.com
 codol.3dmgame.com
-3dmgame.com<BR>www.3dmgame.com
+3dmgame.com
+www.3dmgame.com
 dhd.3dmgame.com
 dl.3dmgame.com
 m.dl.3dmgame.com

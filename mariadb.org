@@ -12,9 +12,12 @@ foundation01.mariadb.org
 hbm.mariadb.org
 jira.mariadb.org
 monitoring.mariadb.org
-new.mariadb.org<BR>www.new.mariadb.org
-download.mariadb.org<BR>downloads.mariadb.org
-mariadb.org<BR>www.mariadb.org
+new.mariadb.org
+www.new.mariadb.org
+download.mariadb.org
+downloads.mariadb.org
+mariadb.org
+www.mariadb.org
 test-faust.mariadb.org
 tools.mariadb.org
 yum.mariadb.org

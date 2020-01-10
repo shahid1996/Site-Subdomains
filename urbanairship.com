@@ -1,7 +1,9 @@
 www.urbanairship.com
 analyze.urbanairship.com
 api.urbanairship.com
-dev-greyhound.bizsys.urbanairship.com<BR>prod-greyhound.bizsys.urbanairship.com<BR>test-greyhound.bizsys.urbanairship.com
+dev-greyhound.bizsys.urbanairship.com
+prod-greyhound.bizsys.urbanairship.com
+test-greyhound.bizsys.urbanairship.com
 blog.urbanairship.com
 boca.urbanairship.com
 boxoffice.urbanairship.com
@@ -82,8 +84,10 @@ c00201-dl.urbanairship.com
 cac-api.urbanairship.com
 cdg-protect.urbanairship.com
 chat.urbanairship.com
-sfmc-dev.urbanairship.com<BR>sfmc-stag.urbanairship.com
-urbanairship.com<BR>www.urbanairship.com
+sfmc-dev.urbanairship.com
+sfmc-stag.urbanairship.com
+urbanairship.com
+www.urbanairship.com
 combine.urbanairship.com
 connect.urbanairship.com
 connect-testing.urbanairship.com

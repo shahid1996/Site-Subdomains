@@ -1,6 +1,14 @@
 www.shomanews.com
-shomanews.com<BR>www.shomanews.com
-shomanews.com<BR>static0.shomanews.com<BR>static1.shomanews.com<BR>static2.shomanews.com<BR>static3.shomanews.com<BR>webmail.shomanews.com<BR>websocket.shomanews.com<BR>www.shomanews.com
+shomanews.com
+www.shomanews.com
+shomanews.com
+static0.shomanews.com
+static1.shomanews.com
+static2.shomanews.com
+static3.shomanews.com
+webmail.shomanews.com
+websocket.shomanews.com
+www.shomanews.com
 server.shomanews.com
 static0.shomanews.com
 static1.shomanews.com

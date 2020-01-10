@@ -2,6 +2,7 @@ www.pewinternet.org
 fe01.pewinternet.org
 libraries.pewinternet.org
 networked.pewinternet.org
-pewinternet.org<BR>www.pewinternet.org
+pewinternet.org
+www.pewinternet.org
 pewsurvey.pewinternet.org
 web.pewinternet.org

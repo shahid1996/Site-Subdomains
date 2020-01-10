@@ -1,5 +1,6 @@
 www.elintransigente.com
-elintransigente.com<BR>www.elintransigente.com
+elintransigente.com
+www.elintransigente.com
 df.elintransigente.com
 i.elintransigente.com
 nu.elintransigente.com

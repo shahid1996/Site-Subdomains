@@ -103,7 +103,9 @@ coachella-gnr.frontgatetickets.com
 coachella-weekend1.frontgatetickets.com
 coachella-weekend2.frontgatetickets.com
 coldtownetheater.frontgatetickets.com
-frontgatetickets.com<BR>support.frontgatetickets.com<BR>www.frontgatetickets.com
+frontgatetickets.com
+support.frontgatetickets.com
+www.frontgatetickets.com
 community.frontgatetickets.com
 concordpid.frontgatetickets.com
 congresschicago.frontgatetickets.com
