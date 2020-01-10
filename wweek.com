@@ -1,0 +1,11 @@
+www.wweek.com
+archive.wweek.com
+blogs.wweek.com
+static.wweek.com<BR>www.wweek.com
+getbusy.wweek.com
+mail.wweek.com
+mail.wweek.com<BR>www.mail.wweek.com
+mediakit.wweek.com
+portland.wweek.com
+static.wweek.com
+store.wweek.com

@@ -1,0 +1,8 @@
+www.socratic.org
+alpha.socratic.org
+blog.socratic.org
+blog.socratic.org
+www.blog.socratic.org
+email.socratic.org
+engineering.socratic.org
+read-only.socratic.org

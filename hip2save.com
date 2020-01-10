@@ -1,0 +1,13 @@
+www.hip2save.com
+hip2save.com
+www.hip2save.com
+hip2save.com
+my.hip2save.com
+www.hip2save.com
+coupondatabase.hip2save.com
+coupondatabase.hip2save.com
+www.coupondatabase.hip2save.com
+files.hip2save.com
+login.hip2save.com
+www.login.hip2save.com
+my.hip2save.com
