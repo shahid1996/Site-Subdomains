@@ -1,0 +1,12 @@
+www.sublimetext.com
+forum.sublimetext.com
+sublimetext.com
+www.sublimetext.com
+sublimetext.com
+www.sublimetext.com
+download.sublimetext.com
+download.sublimetext.com
+www.download.sublimetext.com
+download2.sublimetext.com
+forum.sublimetext.com
+preview.sublimetext.com

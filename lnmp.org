@@ -1,0 +1,8 @@
+www.lnmp.org
+composer.lnmp.org
+en.lnmp.org
+ip.lnmp.org
+old.lnmp.org
+lnmp.org
+www.lnmp.org
+vpser.lnmp.org
