@@ -1,0 +1,11 @@
+www.videojs.com
+blog.videojs.com
+videojs.com
+www.videojs.com
+designer.videojs.com
+docs.videojs.com
+help.videojs.com
+slack.videojs.com
+staging.videojs.com
+www1.videojs.com
+www2.videojs.com
