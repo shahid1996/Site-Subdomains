@@ -1,4 +1,5 @@
 result/
 main.py
-target.txt
+targets.txt
+.gitignire
 
