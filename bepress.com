@@ -328,7 +328,8 @@ dcyalelib.bepress.com
 demo.bepress.com
 digitalcommons.bepress.com
 blog.digitalcommons.bepress.com
-blog.digitalcommons.bepress.com<BR>www.blog.digitalcommons.bepress.com
+blog.digitalcommons.bepress.com
+www.blog.digitalcommons.bepress.com
 dlpurdue.bepress.com
 epscu.bepress.com
 expresso.bepress.com
@@ -367,7 +368,8 @@ www.works.bepress.com
 cfpb.works.bepress.com
 chapmanlaw.works.bepress.com
 charlestonlaw.works.bepress.com
-dashboard.bepress.com<BR>readership.works.bepress.com
+dashboard.bepress.com
+readership.works.bepress.com
 commonwealthlawwidener.works.bepress.com
 delawarelaw.works.bepress.com
 disea.works.bepress.com
@@ -380,8 +382,10 @@ lundlaw.works.bepress.com
 mbs.works.bepress.com
 oculaw.works.bepress.com
 readership.works.bepress.com
-dev.dashboard.bepress.com<BR>dev.readership.works.bepress.com
-preprod.dashboard.bepress.com<BR>preprod.readership.works.bepress.com
+dev.dashboard.bepress.com
+dev.readership.works.bepress.com
+preprod.dashboard.bepress.com
+preprod.readership.works.bepress.com
 rutgerslawnewark.works.bepress.com
 production.sw.works.bepress.com
 production-thumbor.sw.works.bepress.com
