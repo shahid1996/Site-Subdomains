@@ -1,0 +1,14 @@
+www.ktuu.com
+apps.ktuu.com
+articles.ktuu.com
+e.ktuu.com
+e.ktuu.com
+www.e.ktuu.com
+ibmx.ktuu.com
+m.ktuu.com
+messages.ktuu.com
+mobile.ktuu.com
+modules.ktuu.com
+signon.ktuu.com
+signon.ktuu.com
+www.signon.ktuu.com
