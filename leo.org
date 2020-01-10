@@ -1,0 +1,12 @@
+www.leo.org
+bar.leo.org
+dict.leo.org
+dict-nue.leo.org
+mobile.leo.org
+mobile-muc.leo.org
+mobile-nue.leo.org
+ns-1.leo.org
+ns-2.leo.org
+pda.leo.org
+www.pda.leo.org
+tdict.leo.org

@@ -1,0 +1,13 @@
+www.lightwidget.com
+api.lightwidget.com
+api.lightwidget.com
+dev.api.lightwidget.com
+cdn.lightwidget.com
+dev.lightwidget.com
+lightwidget.com
+www.lightwidget.com
+lightwidget.com
+www.lightwidget.com
+dev.lightwidget.com
+fb-app-review.lightwidget.com
+mail.lightwidget.com

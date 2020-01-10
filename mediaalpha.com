@@ -1,0 +1,15 @@
+www.mediaalpha.com
+auto-insurance.mediaalpha.com
+mediaalpha.com
+www.mediaalpha.com
+education.mediaalpha.com
+education-exchange.mediaalpha.com
+exchange.mediaalpha.com
+finance.mediaalpha.com
+go.mediaalpha.com
+insights.mediaalpha.com
+insurance.mediaalpha.com
+insurance-twilio.mediaalpha.com
+travel.mediaalpha.com
+travel-test.mediaalpha.com
+travel-twilio.mediaalpha.com

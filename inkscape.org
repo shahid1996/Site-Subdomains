@@ -1,0 +1,13 @@
+www.inkscape.org
+alpha.inkscape.org
+chat.inkscape.org
+dev.inkscape.org
+devel-04.inkscape.org
+jenkins.inkscape.org
+lists.inkscape.org
+media.inkscape.org
+inkscape.org
+www.inkscape.org
+planet.inkscape.org
+staging.inkscape.org
+wiki.inkscape.org

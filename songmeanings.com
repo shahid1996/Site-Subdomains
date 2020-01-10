@@ -1,0 +1,13 @@
+www.songmeanings.com
+api.songmeanings.com
+cdn.songmeanings.com
+api.songmeanings.com
+songmeanings.com
+www.songmeanings.com
+smt.songmeanings.com
+songmeanings.com
+www.songmeanings.com
+songmeanings.com
+www.songmeanings.com
+sms.songmeanings.com
+smt.songmeanings.com

@@ -1,0 +1,11 @@
+www.zotero.org
+api.zotero.org
+download.zotero.org
+forums.zotero.org
+mail.zotero.org
+recognize.zotero.org
+repo.zotero.org
+services.zotero.org
+static.zotero.org
+stream.zotero.org
+sync.zotero.org

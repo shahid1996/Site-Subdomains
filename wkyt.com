@@ -1,0 +1,15 @@
+www.wkyt.com
+circulars.wkyt.com
+enps.wkyt.com
+enps.wkyt.com
+www.enps.wkyt.com
+mail.wkyt.com
+autodiscover.wkyt.com
+legacy.wkyt.com
+mail.wkyt.com
+wkyt.com
+www.mail.wkyt.com
+mail.wkyt.com
+www.mail.wkyt.com
+modules.wkyt.com
+ww2.wkyt.com

@@ -1,0 +1,16 @@
+www.sciencenews.org
+blog.sciencenews.org
+dev.sciencenews.org
+qa.sciencenews.org
+sns-dev.sciencenews.org
+sciencenews.org
+www.sciencenews.org
+sciencenews.org
+sns-test.sciencenews.org
+test.sciencenews.org
+www.sciencenews.org
+qa.sciencenews.org
+snnew.sciencenews.org
+sns-qa.sciencenews.org
+subscriber.sciencenews.org
+www.subscriber.sciencenews.org
