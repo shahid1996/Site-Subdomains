@@ -1,0 +1,10 @@
+www.straightdope.com
+boards.straightdope.com
+boards.straightdope.com
+www.boards.straightdope.com
+boardstest.straightdope.com
+chicago.straightdope.com
+straightdope.com
+www.straightdope.com
+games.straightdope.com
+link.straightdope.com

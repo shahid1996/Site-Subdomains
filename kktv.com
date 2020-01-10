@@ -1,0 +1,16 @@
+www.kktv.com
+enps.kktv.com
+www.enps.kktv.com
+mail.kktv.com
+autodiscover.kktv.com
+mail.kktv.com
+www.mail.kktv.com
+autodiscover.kktv.com
+kktv.com
+legacy.kktv.com
+mail.kktv.com
+www.mail.kktv.com
+mail.kktv.com
+www.mail.kktv.com
+modules.kktv.com
+ww2.kktv.com

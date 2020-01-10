@@ -2,12 +2,15 @@ www.adn.com
 adportal.adn.com
 beluga.adn.com
 beta.adn.com
-subscribe.beta.adn.com<BR>www.subscribe.beta.adn.com
+subscribe.beta.adn.com
+www.subscribe.beta.adn.com
 checkout.adn.com
 circulars.adn.com
 classifieds.adn.com
-adn.com<BR>www.adn.com
-beta.adn.com<BR>www.adn.com
+adn.com
+www.adn.com
+beta.adn.com
+www.adn.com
 community.adn.com
 dwb.adn.com
 events.adn.com
@@ -29,5 +32,6 @@ registration.adn.com
 saleslink.adn.com
 searchalaska.adn.com
 subscribe.adn.com
-subscribe.adn.com<BR>www.subscribe.adn.com
+subscribe.adn.com
+www.subscribe.adn.com
 webmail.adn.com

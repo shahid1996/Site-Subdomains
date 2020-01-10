@@ -1,0 +1,17 @@
+www.farmersalmanac.com
+alerts.farmersalmanac.com
+www.assets.farmersalmanac.com
+cdn.farmersalmanac.com
+cdn.farmersalmanac.com
+www.cdn.farmersalmanac.com
+farmersalmanac.com
+www.farmersalmanac.com
+www.fadev.farmersalmanac.com
+geiger.farmersalmanac.com
+old.farmersalmanac.com
+promotional.farmersalmanac.com
+store.farmersalmanac.com
+store.farmersalmanac.com
+www.store.farmersalmanac.com
+www.weatheroutlook.farmersalmanac.com
+ww.farmersalmanac.com

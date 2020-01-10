@@ -1,0 +1,9 @@
+www.alistapart.com
+books.alistapart.com
+alistapart.com
+www.alistapart.com
+d.alistapart.com
+dev.alistapart.com
+m.alistapart.com
+old.alistapart.com
+patterns.alistapart.com

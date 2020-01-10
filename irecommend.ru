@@ -1,0 +1,10 @@
+www.irecommend.ru
+i.irecommend.ru
+irecommendru.irecommend.ru
+mail.irecommend.ru
+irecommend.ru
+www.irecommend.ru
+ya.ruwww.irecommend.ru
+ruwwwi.irecommend.ru
+skidki.irecommend.ru
+wwwi.irecommend.ru
