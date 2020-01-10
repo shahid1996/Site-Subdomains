@@ -1,0 +1,11 @@
+www.fivethirtyeight.com
+data.fivethirtyeight.com
+ects.fivethirtyeight.com
+link.fivethirtyeight.com
+m.fivethirtyeight.com
+nfl.fivethirtyeight.com
+project.fivethirtyeight.com
+projects.fivethirtyeight.com
+rojects.fivethirtyeight.com
+sip.fivethirtyeight.com
+wwww.fivethirtyeight.com

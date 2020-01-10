@@ -1,0 +1,16 @@
+bounce.emxdgt.com
+bounce-west.emxdgt.com
+cs.emxdgt.com
+e1.emxdgt.com
+emxhb.emxdgt.com
+hb.emxdgt.com
+hbint.emxdgt.com
+imp.emxdgt.com
+glab.local.emxdgt.com
+optout.emxdgt.com
+post.update.emxdgt.com
+s.update.emxdgt.com
+post.update.emxdgt.com
+s.update.emxdgt.com
+t.update.emxdgt.com
+vast.emxdgt.com

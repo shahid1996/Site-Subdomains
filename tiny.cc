@@ -1,0 +1,14 @@
+www.tiny.cc
+blog.tiny.cc
+branded.tiny.cc
+c.tiny.cc
+tiny.cc
+www.tiny.cc
+d.tiny.cc
+domains.tiny.cc
+h.tiny.cc
+q.tiny.cc
+r.tiny.cc
+s.tiny.cc
+t.tiny.cc
+u.tiny.cc

@@ -1,0 +1,14 @@
+www.techspot.com
+static.techspot.com<BR>techspot.com<BR>www.techspot.com
+techspot.com<BR>www.techspot.com
+files01.techspot.com
+files02.techspot.com
+in.techspot.com
+www.in.techspot.com
+jobs.techspot.com
+m.techspot.com
+static.techspot.com
+store.techspot.com
+tsdev01.techspot.com
+tsdev02.techspot.com
+tsdev03.techspot.com

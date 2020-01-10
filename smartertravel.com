@@ -1,0 +1,13 @@
+www.smartertravel.com
+a.smartertravel.com
+e.smartertravel.com
+eng.smartertravel.com
+landers-static.smartertravel.com
+li.smartertravel.com
+lists.smartertravel.com
+mi.smartertravel.com
+origin.smartertravel.com
+p.smartertravel.com
+smarter-metrics.smartertravel.com
+sstats.smartertravel.com
+stats.smartertravel.com
