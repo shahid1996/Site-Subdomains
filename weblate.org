@@ -1,0 +1,15 @@
+www.weblate.org
+betaweb.weblate.org
+debian.weblate.org
+debug.weblate.org
+demo.weblate.org
+docs.weblate.org
+dyson.weblate.org
+git.weblate.org
+hg.weblate.org
+hosted.weblate.org
+weblate.org
+www.weblate.org
+s.weblate.org
+status.weblate.org
+support.weblate.org
