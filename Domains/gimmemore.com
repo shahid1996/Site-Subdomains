@@ -1,0 +1,12 @@
+www.gimmemore.com
+cdn.gimmemore.com
+de.gimmemore.com
+es.gimmemore.com
+fbde.gimmemore.com
+fbes.gimmemore.com
+fbfr.gimmemore.com
+fbit.gimmemore.com
+fr.gimmemore.com
+go.gimmemore.com
+pt.gimmemore.com
+ru.gimmemore.com

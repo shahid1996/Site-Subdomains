@@ -1,0 +1,13 @@
+www.vikings.com
+blog.vikings.com
+vikings.com
+www.vikings.com
+limited.vikings.com
+login.vikings.com
+www.login.vikings.com
+m.vikings.com
+mail.vikings.com
+mobile.vikings.com
+pages.vikings.com
+web.vikings.com
+access.www.vikings.com
