@@ -1,0 +1,10 @@
+www.footwearnews.com
+email.footwearnews.com
+click.email.footwearnews.com
+image.email.footwearnews.com
+pages.email.footwearnews.com
+view.email.footwearnews.com
+qa.footwearnews.com
+subscribe-sem.footwearnews.com
+uls.footwearnews.com
+video-cdn.footwearnews.com
