@@ -1,0 +1,13 @@
+www.smogon.com
+cap.smogon.com
+beta.smogon.com
+cap.smogon.com
+smogon.com
+www.smogon.com
+domainsbyproxy.com
+www.smogon.com
+smogon.com
+www.smogon.com
+dev.smogon.com
+sim.smogon.com
+www.www.smogon.com
