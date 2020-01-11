@@ -1,0 +1,12 @@
+www.additudemag.com
+additudemag.com
+www.additudemag.com
+additudemag.com
+m.additudemag.com
+www.additudemag.com
+connect.additudemag.com
+directory.additudemag.com
+directory.additudemag.com
+www.directory.additudemag.com
+m.additudemag.com
+sandbox.additudemag.com

@@ -1,0 +1,15 @@
+www.kbtx.com
+autodiscover.kbtx.com
+enps.kbtx.com
+local.kbtx.com
+modules.kbtx.com
+owa.kbtx.com
+autodiscover.kbtx.com
+enps.kbtx.com
+owa.kbtx.com
+www.owa.kbtx.com
+owa.kbtx.com
+www.owa.kbtx.com
+whoop360.kbtx.com
+ww.kbtx.com
+ww2.kbtx.com

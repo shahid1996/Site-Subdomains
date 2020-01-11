@@ -1,0 +1,15 @@
+www.rusprofile.ru
+czruoh.rusprofile.ru
+monitor.rusprofile.ru
+influx.monitor.rusprofile.ru
+release.rusprofile.ru
+s.rusprofile.ru
+test.rusprofile.ru
+beta-0.test.rusprofile.ru
+beta-1.test.rusprofile.ru
+beta-2.test.rusprofile.ru
+beta-3.test.rusprofile.ru
+beta-4.test.rusprofile.ru
+beta-5.test.rusprofile.ru
+beta-6.test.rusprofile.ru
+rp1.test.rusprofile.ru

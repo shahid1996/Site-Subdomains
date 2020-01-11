@@ -1,0 +1,16 @@
+www.wdrb.com
+behired.wdrb.com
+wdrb.com
+www.wdrb.com
+dub.wdrb.com
+link.wdrb.com
+mail.wdrb.com
+autodiscover.wdrb.com
+mail.wdrb.com
+www.mail.wdrb.com
+autodiscover.wdrb.com
+legacy.wdrb.com
+mail.wdrb.com
+www.mail.wdrb.com
+my.wdrb.com
+tis.wdrb.com

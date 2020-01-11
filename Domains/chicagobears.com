@@ -1,0 +1,16 @@
+www.chicagobears.com
+admin.chicagobears.com
+assets.chicagobears.com
+blog.chicagobears.com
+boards.chicagobears.com
+chicagobears.com
+www.chicagobears.com
+fanclub.chicagobears.com
+m.chicagobears.com
+media.chicagobears.com
+org-www.chicagobears.com
+pr-smtp001.chicagobears.com
+store.chicagobears.com
+surveys.chicagobears.com
+www.surveys.chicagobears.com
+access.www.chicagobears.com
