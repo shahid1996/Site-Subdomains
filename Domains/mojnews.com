@@ -1,0 +1,13 @@
+www.mojnews.com
+mojnews.com
+www.mojnews.com
+mojnews.com
+static0.mojnews.com
+static1.mojnews.com
+static2.mojnews.com
+static3.mojnews.com
+websocket.mojnews.com
+www.mojnews.com
+static1.mojnews.com
+static2.mojnews.com
+static3.mojnews.com

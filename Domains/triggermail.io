@@ -1,0 +1,12 @@
+www.triggermail.io
+blog.triggermail.io
+email.triggermail.io
+o1.email.triggermail.io
+o10.email.triggermail.io
+o20.email.triggermail.io
+o22.email.triggermail.io
+o7.email.triggermail.io
+fayez.triggermail.io
+img.triggermail.io
+triggermail.io
+www.triggermail.io

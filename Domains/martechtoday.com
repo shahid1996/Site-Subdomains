@@ -1,0 +1,12 @@
+www.martechtoday.com
+feed.martechtoday.com
+martechtoday.com
+www.martechtoday.com
+martechtoday.com
+www.martechtoday.com
+downloads.martechtoday.com
+feeds.martechtoday.com
+info.martechtoday.com
+newsletters.martechtoday.com
+search.martechtoday.com
+www.search.martechtoday.com

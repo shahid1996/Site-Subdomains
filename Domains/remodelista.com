@@ -1,0 +1,16 @@
+autodiscover.remodelista.com
+remodelista.com
+www.remodelista.com
+cdn.remodelista.com
+cdn-images.remodelista.com
+cms.remodelista.com
+cdn-images.remodelista.com
+cdn.remodelista.com
+remodelista.com
+www.remodelista.com
+cdn-images.remodelista.com
+cdn.remodelista.com
+www.remodelista.com
+newsstand.remodelista.com
+smetrics.remodelista.com
+tags.remodelista.com

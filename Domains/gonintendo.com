@@ -1,0 +1,14 @@
+www.gonintendo.com
+gonintendo.com
+www.gonintendo.com
+ftp.gonintendo.com
+mail.gonintendo.com
+www.ftp.gonintendo.com
+autodiscover.gonintendo.com
+cpanel.gonintendo.com
+ftp.gonintendo.com
+mail.gonintendo.com
+webdisk.gonintendo.com
+webmail.gonintendo.com
+www.ftp.gonintendo.com
+mail.gonintendo.com

@@ -1,0 +1,9 @@
+www.shumo.com
+0.000000www.shumo.com
+2011.shumo.com
+2011.shumo.com
+hunan.shumo.com
+shumo.com
+www.shumo.com
+hubei.shumo.com
+hunan.shumo.com

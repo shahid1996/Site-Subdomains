@@ -1,0 +1,15 @@
+www.heraldbulletin.com
+celebrations.heraldbulletin.com
+circulars.heraldbulletin.com
+heraldbulletin.com
+m.heraldbulletin.com
+www.heraldbulletin.com
+coupons.heraldbulletin.com
+findnsave.heraldbulletin.com
+login.heraldbulletin.com
+m.heraldbulletin.com
+marketplace.heraldbulletin.com
+newspaperads.heraldbulletin.com
+obituaries.heraldbulletin.com
+photos.heraldbulletin.com
+videos.heraldbulletin.com

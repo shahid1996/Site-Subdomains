@@ -1,0 +1,11 @@
+www.christianmingle.com
+about.christianmingle.com
+believe.christianmingle.com
+www.believe.christianmingle.com
+dating.christianmingle.com
+indy-api.christianmingle.com
+link.christianmingle.com
+login.christianmingle.com
+mail.christianmingle.com
+ablinks.mail.christianmingle.com
+support.christianmingle.com

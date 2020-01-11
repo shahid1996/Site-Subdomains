@@ -1,0 +1,10 @@
+www.eldestapeweb.com
+media.cdn.eldestapeweb.com
+prod.eldestapeweb.com
+test.eldestapeweb.com
+prod.eldestapeweb.com
+www.eldestapeweb.com
+df.eldestapeweb.com
+manager.eldestapeweb.com
+media.eldestapeweb.com
+prod.eldestapeweb.com

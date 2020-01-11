@@ -1,0 +1,17 @@
+bitcloud.desync.com
+desync.com
+www.desync.com
+crossbar.desync.com
+exile.desync.com
+exodus.desync.com
+mta-sts.desync.com
+nexus.desync.com
+rx.ns.desync.com
+ry.ns.desync.com
+rz.ns.desync.com
+x.ns.desync.com
+y.ns.desync.com
+z.ns.desync.com
+relay.desync.com
+satan.desync.com
+www-lx0.desync.com

@@ -1,0 +1,12 @@
+www.davidbowie.com
+77-82.davidbowie.com
+community.davidbowie.com
+glastonbury.davidbowie.com
+imap.davidbowie.com
+legacy.davidbowie.com
+spaceoddity.davidbowie.com
+spaceoddity50.davidbowie.com
+store.davidbowie.com
+store.davidbowie.com
+www.store.davidbowie.com
+webmail.davidbowie.com

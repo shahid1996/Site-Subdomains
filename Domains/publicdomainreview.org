@@ -1,0 +1,12 @@
+mail.publicdomainreview.org
+publicdomainreview.org
+www.publicdomainreview.org
+autodiscover.publicdomainreview.org
+cpanel.publicdomainreview.org
+mail.publicdomainreview.org
+publicdomainreview.org
+webdisk.publicdomainreview.org
+webmail.publicdomainreview.org
+www.publicdomainreview.org
+sendy.publicdomainreview.org
+staging.publicdomainreview.org

@@ -1,0 +1,17 @@
+www.fontfabric.com
+www.api.fontfabric.com
+api.fontfabric.com
+www.api.fontfabric.com
+fontfabric.com
+www.fontfabric.com
+sgtest.fontfabric.com
+www.sgtest.fontfabric.com
+staging.fontfabric.com
+www.staging.fontfabric.com
+staging-api.fontfabric.com
+www.staging-api.fontfabric.com
+staging1.fontfabric.com
+www.staging1.fontfabric.com
+staging2.fontfabric.com
+www.staging2.fontfabric.com
+workshop.fontfabric.com

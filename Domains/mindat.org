@@ -1,0 +1,14 @@
+www.mindat.org
+adventures.mindat.org
+barstow.mindat.org
+bugs.mindat.org
+direct.mindat.org
+images.mindat.org
+manual.mindat.org
+new.mindat.org
+newmindatlive.mindat.org
+ru.mindat.org
+store.mindat.org
+test.mindat.org
+webmin.mindat.org
+zh.mindat.org

@@ -1,0 +1,13 @@
+selenic.com
+selenic.com
+www.selenic.com
+bz.selenic.com
+selenic.com
+selenic.com
+www.selenic.com
+mercurial.selenic.com
+selenic.com
+www.selenic.com
+selenic.com
+www.selenic.com
+mercurial.selenic.com

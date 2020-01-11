@@ -1,0 +1,9 @@
+www.idsnews.com
+guides.idsnews.com
+idsnews.com
+www.idsnews.com
+idsnews.com
+www.idsnews.com
+guides.idsnews.com
+inside.idsnews.com
+specials.idsnews.com

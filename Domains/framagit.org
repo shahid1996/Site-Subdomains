@@ -1,0 +1,6 @@
+koding.framagit.org
+gitlab.koding.framagit.org
+koding.framagit.org
+framagit.org
+www.framagit.org
+prometheus.framagit.org

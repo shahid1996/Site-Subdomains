@@ -1,0 +1,9 @@
+www.monosnap.com
+api.monosnap.com
+beta.monosnap.com
+blog.monosnap.com
+devapi2.monosnap.com
+munin.monosnap.com
+snack.monosnap.com
+static.monosnap.com
+takems.monosnap.com

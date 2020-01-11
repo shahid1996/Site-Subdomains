@@ -1,0 +1,41 @@
+www.canalys.com
+CANALYS.COM LTD
+client.canalys.com
+CANALYS.COM LTD
+secure.canalys.com
+client.canalys.com
+Canalys.com Ltd
+client.canalys.com
+mail.canalys.com
+mailre2.canalys.com
+mailre3.canalys.com
+mailre4.canalys.com
+mailre5.canalys.com
+mailre.canalys.com
+mail.canalys.com
+mailre3.canalys.com
+autodiscover.canalys.com
+mail.canalys.com
+mailre2.canalys.com
+mailre3.canalys.com
+mailre4.canalys.com
+mail.canalys.com
+mailre4.canalys.com
+autodiscover.canalys.com
+mail.canalys.com
+mailre3.canalys.com
+mailre5.canalys.com
+autodiscover.canalys.com
+mail.canalys.com
+mailre2.canalys.com
+mailre3.canalys.com
+mailre4.canalys.com
+mailre5.canalys.com
+canalys.com
+www.canalys.com
+dashboard.canalys.com
+idrac-62kjl82.canalys.com
+item.canalys.com
+mailre3.canalys.com
+secure.canalys.com
+static.canalys.com

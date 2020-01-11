@@ -1,0 +1,15 @@
+www.jackboxgames.com
+blobcast.jackboxgames.com
+cdn.jackboxgames.com
+jackboxgames.com
+www.jackboxgames.com
+ecast.jackboxgames.com
+gamenews.jackboxgames.com
+i-093426684afdf80ec.jackboxgames.com
+pp5.jackboxgames.com
+pp5.jackboxgames.com
+www.pp5.jackboxgames.com
+shop.jackboxgames.com
+staging1.jackboxgames.com
+staging1.jackboxgames.com
+www.staging1.jackboxgames.com

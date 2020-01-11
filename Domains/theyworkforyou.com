@@ -1,0 +1,13 @@
+www.theyworkforyou.com
+theyworkforyou.com
+www.theyworkforyou.com
+beta.theyworkforyou.com
+election.theyworkforyou.com
+live.theyworkforyou.com
+theyworkforyou.com
+www.beta.theyworkforyou.com
+www.theyworkforyou.com
+election.theyworkforyou.com
+live.theyworkforyou.com
+parser.theyworkforyou.com
+web.theyworkforyou.com

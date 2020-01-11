@@ -1,0 +1,10 @@
+www.businessinsider.nl
+acc.businessinsider.nl
+api.businessinsider.nl
+api.businessinsider.nl
+www.api.businessinsider.nl
+cdn.businessinsider.nl
+businessinsider.nl
+www.businessinsider.nl
+stories.businessinsider.nl
+vacatures.businessinsider.nl

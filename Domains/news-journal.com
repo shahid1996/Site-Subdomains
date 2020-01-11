@@ -1,0 +1,9 @@
+www.news-journal.com
+classified.news-journal.com
+news-journal.com
+www.news-journal.com
+estore.news-journal.com
+events.news-journal.com
+local.news-journal.com
+m.news-journal.com
+oascentral.news-journal.com

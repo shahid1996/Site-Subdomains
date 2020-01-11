@@ -1,0 +1,17 @@
+www.gadgetreview.com
+beta.gadgetreview.com
+cdn.gadgetreview.com
+static1.cdn.gadgetreview.com
+static2.cdn.gadgetreview.com
+static3.cdn.gadgetreview.com
+static4.cdn.gadgetreview.com
+gadgetreview.com
+www.gadgetreview.com
+dev.gadgetreview.com
+go.gadgetreview.com
+s3.gadgetreview.com
+search.gadgetreview.com
+shop.gadgetreview.com
+staging.gadgetreview.com
+staginggr.gadgetreview.com
+tech.gadgetreview.com

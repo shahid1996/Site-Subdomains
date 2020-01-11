@@ -1,0 +1,13 @@
+www.wizardofodds.com
+mailadmin.wizardofodds.com
+webmail.wizardofodds.com
+wizardofodds.com
+www.wizardofodds.com
+wizardofodds.com
+www.wizardofodds.com
+mail.wizardofodds.com
+mailadmin.wizardofodds.com
+priva.wizardofodds.com
+priva.wizardofodds.com
+www.priva.wizardofodds.com
+webmail.wizardofodds.com

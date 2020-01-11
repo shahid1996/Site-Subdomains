@@ -1,0 +1,16 @@
+www.wjbf.com
+abc6.wjbf.com
+v1-1.api.wjbf.com
+v1-1.api.wjbf.com
+www.v1-1.api.wjbf.com
+bb.wjbf.com
+wjbf.com
+www.wjbf.com
+enpsmobile.wjbf.com
+www.enpsmobile.wjbf.com
+link.wjbf.com
+m.wjbf.com
+media.wjbf.com
+ww2.wjbf.com
+www2.wjbf.com
+wx.wjbf.com

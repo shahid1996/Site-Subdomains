@@ -1,0 +1,9 @@
+www.nashvillescene.com
+blogs.nashvillescene.com
+components.nashvillescene.com
+www.craftybastards.nashvillescene.com
+getlocal.nashvillescene.com
+local.nashvillescene.com
+m.nashvillescene.com
+tacoweek.nashvillescene.com
+ww2.nashvillescene.com

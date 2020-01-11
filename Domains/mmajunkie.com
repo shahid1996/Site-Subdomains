@@ -1,0 +1,13 @@
+www.mmajunkie.com
+api.mmajunkie.com
+api-test.mmajunkie.com
+cagewarriors.mmajunkie.com
+chat.mmajunkie.com
+mmajunkie.com
+www.mmajunkie.com
+forum.mmajunkie.com
+forums.mmajunkie.com
+mail.mmajunkie.com
+repdata.mmajunkie.com
+srepdata.mmajunkie.com
+video.mmajunkie.com

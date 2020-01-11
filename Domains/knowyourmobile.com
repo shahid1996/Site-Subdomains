@@ -1,0 +1,14 @@
+www.knowyourmobile.com
+application.knowyourmobile.com
+auth.knowyourmobile.com
+cdn1.knowyourmobile.com
+cdn2.knowyourmobile.com
+deals.knowyourmobile.com
+do.knowyourmobile.com
+news.knowyourmobile.com
+newsletter.knowyourmobile.com
+phonedeals.knowyourmobile.com
+promo.knowyourmobile.com
+service.knowyourmobile.com
+static.knowyourmobile.com
+subs.knowyourmobile.com

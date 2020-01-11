@@ -1,0 +1,12 @@
+www.xopom.com
+xopom.com
+news.xopom.com
+xopom.com
+www.xopom.com
+ad.xopom.com
+chat.xopom.com
+chatbot.xopom.com
+cs.xopom.com
+download.xopom.com
+monitor.xopom.com
+news.xopom.com

@@ -1,0 +1,6 @@
+www.paparazziaccessories.com
+beta.paparazziaccessories.com
+glitr.paparazziaccessories.com
+order-checking.paparazziaccessories.com
+sentry.paparazziaccessories.com
+shop.paparazziaccessories.com

@@ -1,0 +1,9 @@
+www.kingsumo.com
+api.kingsumo.com
+app.kingsumo.com
+app-dev.kingsumo.com
+blog.kingsumo.com
+kingsumo.com
+www.kingsumo.com
+webmail.dev.kingsumo.com
+wordpress.kingsumo.com

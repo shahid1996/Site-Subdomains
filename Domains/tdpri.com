@@ -1,0 +1,14 @@
+www.tdpri.com
+mail.tdpri.com
+tdpri.com
+www.tdpri.com
+mail.tdpri.com
+tdpri.com
+webmail.tdpri.com
+www.tdpri.com
+cpanel.tdpri.com
+mail.tdpri.com
+tdpri.com
+webdisk.tdpri.com
+webmail.tdpri.com
+www.tdpri.com

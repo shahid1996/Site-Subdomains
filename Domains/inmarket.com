@@ -1,0 +1,14 @@
+www.inmarket.com
+answers.inmarket.com
+cdn-engagement.inmarket.com
+cdn-m2m-api.inmarket.com
+engagement.inmarket.com
+go.inmarket.com
+insights.inmarket.com
+intranet.inmarket.com
+landing.inmarket.com
+m2m.inmarket.com
+m2m-api.inmarket.com
+plaid.inmarket.com
+plaid-qa.inmarket.com
+tableau.inmarket.com

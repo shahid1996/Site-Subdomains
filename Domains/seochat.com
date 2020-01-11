@@ -1,0 +1,9 @@
+www.seochat.com
+backlinks.seochat.com
+seochat.com
+www.seochat.com
+forums.seochat.com
+guild.seochat.com
+join.guild.seochat.com
+teaser1.guild.seochat.com
+tools.seochat.com

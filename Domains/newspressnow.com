@@ -1,0 +1,11 @@
+www.newspressnow.com
+circulars.newspressnow.com
+m.newspressnow.com
+newspressnow.com
+www.newspressnow.com
+files.newspressnow.com
+local.newspressnow.com
+m.newspressnow.com
+mail.newspressnow.com
+prewww.newspressnow.com
+test.newspressnow.com

@@ -1,0 +1,11 @@
+mail.zishy.com
+www.zishy.com
+zishy.com
+www.zishy.com
+cash.zishy.com
+cash.zishy.com
+www.cash.zishy.com
+mail.zishy.com
+promos.zishy.com
+promos.zishy.com
+www.promos.zishy.com

@@ -1,0 +1,14 @@
+www.vanguardia.com
+blogs.vanguardia.com
+certificados.vanguardia.com
+mpre.vanguardia.com
+pre.vanguardia.com
+m.vanguardia.com
+vanguardia.com
+www.vanguardia.com
+digitales.vanguardia.com
+www.digitales.vanguardia.com
+m.vanguardia.com
+mail.vanguardia.com
+sso.vanguardia.com
+videos.vanguardia.com

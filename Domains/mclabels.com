@@ -1,0 +1,10 @@
+www.mclabels.com
+ambassador.mclabels.com
+chat.mclabels.com
+mclabels.com
+www.mclabels.com
+de.mclabels.com
+www.de.mclabels.com
+it.mclabels.com
+www.it.mclabels.com
+ws.mclabels.com

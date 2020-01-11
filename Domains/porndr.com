@@ -1,0 +1,10 @@
+www.porndr.com
+adman.porndr.com
+bwr.porndr.com
+bwr.porndr.com
+www.bwr.porndr.com
+porndr.com
+www.porndr.com
+dev.porndr.com
+mail.porndr.com
+webmasters.porndr.com

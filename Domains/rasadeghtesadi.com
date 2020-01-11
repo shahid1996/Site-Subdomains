@@ -1,0 +1,12 @@
+www.rasadeghtesadi.com
+rasadeghtesadi.com
+static0.rasadeghtesadi.com
+static1.rasadeghtesadi.com
+static2.rasadeghtesadi.com
+static3.rasadeghtesadi.com
+websocket.rasadeghtesadi.com
+www.rasadeghtesadi.com
+static1.rasadeghtesadi.com
+static2.rasadeghtesadi.com
+static3.rasadeghtesadi.com
+websocket.rasadeghtesadi.com

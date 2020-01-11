@@ -1,0 +1,12 @@
+www.itworldcanada.com
+blogs.itworldcanada.com
+feeds.itworldcanada.com
+itworldcanada.com
+www.itworldcanada.com
+epubs.itworldcanada.com
+feeds.itworldcanada.com
+i.itworldcanada.com
+jobs.itworldcanada.com
+m.itworldcanada.com
+messagent.itworldcanada.com
+my.itworldcanada.com

@@ -1,0 +1,17 @@
+www.kaboodle.com
+blog.kaboodle.com
+cn.kaboodle.com
+cn1.kaboodle.com
+cn2.kaboodle.com
+cn3.kaboodle.com
+kaboodle.com
+www.kaboodle.com
+dc.kaboodle.com
+email.kaboodle.com
+imgcache.kaboodle.com
+info.kaboodle.com
+links.kaboodle.com
+m.kaboodle.com
+origin.kaboodle.com
+sdc.kaboodle.com
+staging.kaboodle.com

@@ -1,0 +1,12 @@
+analytics.ibeautyreport.com
+cdn.ibeautyreport.com
+celine.ibeautyreport.com
+ibeautyreport.com
+www.ibeautyreport.com
+edm.ibeautyreport.com
+ibrevent.ibeautyreport.com
+kidsland.ibeautyreport.com
+l1.ibeautyreport.com
+mail.ibeautyreport.com
+news.ibeautyreport.com
+test.ibeautyreport.com

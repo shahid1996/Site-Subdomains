@@ -1,0 +1,15 @@
+www.register-herald.com
+circulars.register-herald.com
+m.register-herald.com
+register-herald.com
+www.register-herald.com
+contest.register-herald.com
+coupons.register-herald.com
+findnsave.register-herald.com
+login.register-herald.com
+m.register-herald.com
+marketplace.register-herald.com
+newspaperads.register-herald.com
+obituaries.register-herald.com
+photos.register-herald.com
+videos.register-herald.com

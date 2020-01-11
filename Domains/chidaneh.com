@@ -1,0 +1,14 @@
+www.chidaneh.com
+beta.chidaneh.com
+beta.chidaneh.com
+www.beta.chidaneh.com
+chidaneh.com
+www.chidaneh.com
+order.chidaneh.com
+cpanel.order.chidaneh.com
+mail.order.chidaneh.com
+order.chidaneh.com
+webdisk.order.chidaneh.com
+webmail.order.chidaneh.com
+www.order.chidaneh.com
+promote.chidaneh.com

@@ -1,0 +1,15 @@
+www.kubuntu.org
+bugs.kubuntu.org
+docs.kubuntu.org
+kubuntu.org
+www.kubuntu.org
+ro.kubuntu.org
+shipit.kubuntu.org
+shipit.kubuntu.org
+www.shipit.kubuntu.org
+tr.kubuntu.org
+wiki.kubuntu.org
+wiki.kubuntu.org
+www.wiki.kubuntu.org
+wire.kubuntu.org
+www-new.kubuntu.org

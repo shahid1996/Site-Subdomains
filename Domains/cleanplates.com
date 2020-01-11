@@ -1,0 +1,13 @@
+www.cleanplates.com
+api.cleanplates.com
+app.cleanplates.com
+blog.cleanplates.com
+brooklyn.cleanplates.com
+www.email.cleanplates.com
+click1.email.cleanplates.com
+giveaway.cleanplates.com
+la.cleanplates.com
+national.cleanplates.com
+nyc.cleanplates.com
+photo.cleanplates.com
+recipes.cleanplates.com

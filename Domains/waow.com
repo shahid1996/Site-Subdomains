@@ -1,0 +1,12 @@
+www.waow.com
+addins.waow.com
+addins.waow.com
+www.addins.waow.com
+waow.com
+www.waow.com
+connect.waow.com
+dub.waow.com
+horizon.waow.com
+link.waow.com
+m.waow.com
+on.waow.com

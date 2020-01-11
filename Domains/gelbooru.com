@@ -1,0 +1,16 @@
+www.gelbooru.com
+assets.gelbooru.com
+assets2.gelbooru.com
+cdn1.gelbooru.com
+cdn2.gelbooru.com
+gelbooru.com
+www.gelbooru.com
+gelbooru.com
+img1.gelbooru.com
+www.gelbooru.com
+img1.gelbooru.com
+img2.gelbooru.com
+simg3.gelbooru.com
+simg4.gelbooru.com
+usthumb.gelbooru.com
+webm.gelbooru.com

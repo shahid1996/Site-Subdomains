@@ -1,0 +1,10 @@
+www.themonitor.com
+circulars.themonitor.com
+m.themonitor.com
+themonitor.com
+www.themonitor.com
+directory.themonitor.com
+events.themonitor.com
+local.themonitor.com
+m.themonitor.com
+secure.themonitor.com

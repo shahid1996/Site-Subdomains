@@ -1,0 +1,2 @@
+app.deathtothestockphoto.com
+join.deathtothestockphoto.com

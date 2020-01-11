@@ -1,0 +1,13 @@
+www.nowness.com
+amp.nowness.com
+api.nowness.com
+cn.nowness.com
+api.nowness.com
+cn.nowness.com
+img.nowness.com
+www.nowness.com
+click.email.nowness.com
+image.email.nowness.com
+images.nowness.com
+img.nowness.com
+projects.nowness.com

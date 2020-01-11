@@ -1,0 +1,4 @@
+www.fashionmodeldirectory.com
+images.fashionmodeldirectory.com
+images4.fashionmodeldirectory.com
+newsimages.fashionmodeldirectory.com

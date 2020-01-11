@@ -1,0 +1,9 @@
+www.bcnmonetize.com
+api.bcnmonetize.com
+login.bcnmonetize.com
+feed.bcnmonetize.com
+cdn.feed.bcnmonetize.com
+filter.bcnmonetize.com
+link.bcnmonetize.com
+track.bcnmonetize.com
+xml.bcnmonetize.com

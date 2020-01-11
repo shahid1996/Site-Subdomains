@@ -1,0 +1,14 @@
+www.nga.org
+ci.nga.org
+classic.nga.org
+data.nga.org
+education.nga.org
+mediaw.nga.org
+meetings.nga.org
+members.nga.org
+ns.nga.org
+ns2.nga.org
+portal.nga.org
+preview.nga.org
+resources.nga.org
+toolkit.nga.org

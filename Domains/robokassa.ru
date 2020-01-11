@@ -1,0 +1,13 @@
+www.robokassa.ru
+auth.robokassa.ru
+docs.robokassa.ru
+fiscal.robokassa.ru
+mail.robokassa.ru
+market.robokassa.ru
+my.robokassa.ru
+opg.robokassa.ru
+partner.robokassa.ru
+smtp-c.robokassa.ru
+start.robokassa.ru
+support.robokassa.ru
+test.robokassa.ru

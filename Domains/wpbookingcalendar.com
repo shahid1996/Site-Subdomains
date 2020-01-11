@@ -1,0 +1,10 @@
+mail.wpbookingcalendar.com
+wpbookingcalendar.com
+www.wpbookingcalendar.com
+bl.wpbookingcalendar.com
+bm.wpbookingcalendar.com
+bs.wpbookingcalendar.com
+wpbookingcalendar.com
+www.wpbookingcalendar.com
+multiuser.wpbookingcalendar.com
+personal.wpbookingcalendar.com

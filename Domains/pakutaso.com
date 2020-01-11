@@ -1,0 +1,14 @@
+www.pakutaso.com
+cdn.pakutaso.com
+pakutaso.com
+www.pakutaso.com
+pakutaso.com
+webmail.pakutaso.com
+www.pakutaso.com
+mt2019.pakutaso.com
+mt6.pakutaso.com
+mt6s.pakutaso.com
+mt7.pakutaso.com
+oogiri.pakutaso.com
+write.pakutaso.com
+writing.pakutaso.com

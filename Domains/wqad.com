@@ -1,0 +1,11 @@
+www.wqad.com
+circulars.wqad.com
+wqad.com
+www.wqad.com
+eastrockislandcounty.wqad.com
+link.wqad.com
+lists.wqad.com
+login.wqad.com
+www.login.wqad.com
+via.wqad.com
+westscottcounty.wqad.com

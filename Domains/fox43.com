@@ -1,0 +1,10 @@
+www.fox43.com
+circulars.fox43.com
+fox43.com
+www.fox43.com
+go.fox43.com
+signin.fox43.com
+signin.fox43.com
+www.signin.fox43.com
+via.fox43.com
+video.fox43.com

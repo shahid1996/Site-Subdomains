@@ -1,0 +1,15 @@
+www.gitorious.org
+blog.gitorious.org
+ci.gitorious.org
+en.gitorious.org
+git.gitorious.org
+maemo.gitorious.org
+www.maemo.gitorious.org
+meego.gitorious.org
+qt.gitorious.org
+www.qt.gitorious.org
+secure.gitorious.org
+www.secure.gitorious.org
+status.gitorious.org
+qt.t.gitorious.org
+wws.gitorious.org

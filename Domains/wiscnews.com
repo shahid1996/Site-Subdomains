@@ -1,0 +1,14 @@
+www.wiscnews.com
+autos.wiscnews.com
+circulars.wiscnews.com
+m.wiscnews.com
+wiscnews.com
+www.wiscnews.com
+contest.wiscnews.com
+contest.wiscnews.com
+www.contest.wiscnews.com
+contestbdc.wiscnews.com
+contestbdc.wiscnews.com
+www.contestbdc.wiscnews.com
+li.wiscnews.com
+m.wiscnews.com

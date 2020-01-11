@@ -1,0 +1,14 @@
+www.localnews8.com
+circulars.localnews8.com
+events.localnews8.com
+files.localnews8.com
+health.localnews8.com
+hiring.localnews8.com
+ibmx.localnews8.com
+jobs.localnews8.com
+kv.localnews8.com
+m.localnews8.com
+mail.localnews8.com
+media.localnews8.com
+messages.localnews8.com
+ww.localnews8.com

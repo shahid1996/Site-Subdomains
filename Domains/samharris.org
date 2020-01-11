@@ -1,0 +1,12 @@
+www.samharris.org
+archive.samharris.org
+billing.samharris.org
+forum.samharris.org
+help.samharris.org
+m.samharris.org
+samharris.org
+www.samharris.org
+shop.samharris.org
+staging.samharris.org
+static.samharris.org
+video.samharris.org

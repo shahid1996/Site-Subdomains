@@ -1,0 +1,12 @@
+www.novin.com
+novin.com
+www.novin.com
+cpanel.novin.com
+mail.novin.com
+novin.com
+webdisk.novin.com
+webmail.novin.com
+www.novin.com
+demo.novin.com
+www.demo.novin.com
+landing.novin.com

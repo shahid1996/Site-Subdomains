@@ -1,0 +1,12 @@
+www.kspr.com
+articles.kspr.com
+enps.kspr.com
+extras.kspr.com
+ibmx.kspr.com
+m.kspr.com
+messages.kspr.com
+modules.kspr.com
+signon.kspr.com
+signon.kspr.com
+www.signon.kspr.com
+weeklyads.kspr.com

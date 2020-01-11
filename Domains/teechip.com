@@ -1,0 +1,15 @@
+www.teechip.com
+3.teechip.com
+blog.teechip.com
+blog.teechip.com
+www.blog.teechip.com
+email.teechip.com
+legacy.teechip.com
+links.teechip.com
+mastermind.teechip.com
+www.mastermind.teechip.com
+paypal.teechip.com
+www.paypal.teechip.com
+pr.teechip.com
+pro.teechip.com
+ww.teechip.com

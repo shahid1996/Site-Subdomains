@@ -1,0 +1,13 @@
+www.hostingkartinok.com
+hostingkartinok.com
+www.hostingkartinok.com
+forum.hostingkartinok.com
+s1.hostingkartinok.com
+s2.hostingkartinok.com
+s3.hostingkartinok.com
+s4.hostingkartinok.com
+s5.hostingkartinok.com
+s6.hostingkartinok.com
+s7.hostingkartinok.com
+s8.hostingkartinok.com
+soft.hostingkartinok.com

@@ -1,0 +1,12 @@
+www.columbiaspectator.com
+alumni.columbiaspectator.com
+catfish.columbiaspectator.com
+conference.columbiaspectator.com
+features.columbiaspectator.com
+feeds.columbiaspectator.com
+spc.columbiaspectator.com
+spectrum.columbiaspectator.com
+staff.columbiaspectator.com
+ves.columbiaspectator.com
+www.ves.columbiaspectator.com
+wiki.columbiaspectator.com

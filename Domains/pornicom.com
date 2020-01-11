@@ -1,0 +1,11 @@
+www.pornicom.com
+cdn.pornicom.com
+cdni.pornicom.com
+www.origin.cdni.pornicom.com
+pornicom.com
+www.pornicom.com
+m.pornicom.com
+storage0.pornicom.com
+storage1.pornicom.com
+storage2.pornicom.com
+www.www.pornicom.com

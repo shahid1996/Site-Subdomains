@@ -1,0 +1,12 @@
+www.waitsun.com
+2020.waitsun.com
+appbillboards.waitsun.com
+club.waitsun.com
+waitsun.com
+www.waitsun.com
+down.waitsun.com
+down0.waitsun.com
+down1.waitsun.com
+hao.waitsun.com
+img1.waitsun.com
+static.waitsun.com

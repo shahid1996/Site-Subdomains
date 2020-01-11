@@ -1,0 +1,10 @@
+www.canadianliving.com
+advantage.canadianliving.com
+canadianliving.com
+www.canadianliving.com
+m.canadianliving.com
+mobile.canadianliving.com
+secure.canadianliving.com
+shop.canadianliving.com
+video.canadianliving.com
+vipevents.canadianliving.com

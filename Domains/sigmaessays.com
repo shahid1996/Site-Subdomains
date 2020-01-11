@@ -1,0 +1,9 @@
+www.sigmaessays.com
+api.sigmaessays.com
+www.api.sigmaessays.com
+sigmaessays.com
+www.sigmaessays.com
+my.sigmaessays.com
+www.my.sigmaessays.com
+widget.sigmaessays.com
+www.widget.sigmaessays.com

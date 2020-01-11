@@ -1,0 +1,11 @@
+www.thenewstack.io
+backup.thenewstack.io
+backup02.thenewstack.io
+cdn.thenewstack.io
+dev.thenewstack.io
+dev02.thenewstack.io
+dl.thenewstack.io
+thenewstack.io
+www.thenewstack.io
+monitor03.thenewstack.io
+test01.thenewstack.io

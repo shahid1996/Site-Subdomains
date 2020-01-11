@@ -1,0 +1,7 @@
+www.indianhealthyrecipes.com
+bot.indianhealthyrecipes.com
+cdn.indianhealthyrecipes.com
+indianhealthyrecipes.com
+www.indianhealthyrecipes.com
+dm.indianhealthyrecipes.com
+info.indianhealthyrecipes.com

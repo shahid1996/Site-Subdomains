@@ -1,0 +1,8 @@
+www.ipu.org
+archive.ipu.org
+beta.ipu.org
+campaign.ipu.org
+data.ipu.org
+mail.ipu.org
+w3.ipu.org
+webmail.ipu.org

@@ -1,0 +1,14 @@
+www.bucadibeppo.com
+blog.bucadibeppo.com
+catering.bucadibeppo.com
+bucadibeppo.com
+www.bucadibeppo.com
+dev.bucadibeppo.com
+fbapps.bucadibeppo.com
+groups.bucadibeppo.com
+locations.bucadibeppo.com
+mi.bucadibeppo.com
+new.bucadibeppo.com
+offers.bucadibeppo.com
+order.bucadibeppo.com
+staging.bucadibeppo.com

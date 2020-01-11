@@ -1,0 +1,17 @@
+www.parrable.com
+api.parrable.com
+cdn.parrable.com
+chd.parrable.com
+colibri.parrable.com
+parrable.com
+www.parrable.com
+h.parrable.comh.parrable.com
+con.parrable.com
+evt.parrable.com
+h.parrable.com
+optout.parrable.com
+p.parrable.com
+streaming.parrable.com
+t.parrable.com
+trk.parrable.com
+web02.us-east.parrable.com

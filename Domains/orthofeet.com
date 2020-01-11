@@ -1,0 +1,10 @@
+locator.orthofeet.com
+orthofeet.com
+www.orthofeet.com
+orthofeet.com
+www.orthofeet.com
+en.orthofeet.com
+es.orthofeet.com
+locator.orthofeet.com
+returns.orthofeet.com
+wxgmca.orthofeet.com

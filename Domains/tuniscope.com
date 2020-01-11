@@ -1,0 +1,14 @@
+www.tuniscope.com
+ads.tuniscope.com
+css.shop.tuniscope.com
+img.shop.tuniscope.com
+js.shop.tuniscope.com
+shopping.tuniscope.com
+shop.tuniscope.com
+shopping.tuniscope.com
+shop.tuniscope.com
+tuniscope.com
+www.tuniscope.com
+secure.tuniscope.com
+shop.tuniscope.com
+new.tuniscope.com:8080

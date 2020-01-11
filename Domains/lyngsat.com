@@ -1,0 +1,16 @@
+www.lyngsat.com
+mail.lyngsat.com
+misc.lyngsat.com
+lyngsat.com
+www.lyngsat.com
+genmap.lyngsat.com
+m.lyngsat.com
+www.m.lyngsat.com
+lyngsat.com
+m.lyngsat.com
+www.lyngsat.com
+www.m.lyngsat.com
+mail.lyngsat.com
+misc.lyngsat.com
+new.lyngsat.com
+web.lyngsat.com

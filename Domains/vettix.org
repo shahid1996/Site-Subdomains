@@ -1,0 +1,11 @@
+www.vettix.org
+admin.vettix.org
+atlassian.vettix.org
+dev4.vettix.org
+download.vettix.org
+ei-cdn.vettix.org
+pressroom.vettix.org
+shop.vettix.org
+static-cdn.vettix.org
+upload.vettix.org
+wi-cdn.vettix.org

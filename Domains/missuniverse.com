@@ -1,0 +1,17 @@
+www.missuniverse.com
+api.missuniverse.com
+www.api.missuniverse.com
+cdn.missuniverse.com
+cms.missuniverse.com
+missuniverse.com
+www.missuniverse.com
+content.missuniverse.com
+events.missuniverse.com
+live.missuniverse.com
+movies.missuniverse.com
+press.missuniverse.com
+stage.missuniverse.com
+tickets.missuniverse.com
+vote.missuniverse.com
+watch.missuniverse.com
+www2.missuniverse.com

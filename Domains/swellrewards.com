@@ -1,0 +1,15 @@
+www.swellrewards.com
+app.swellrewards.com
+assets-cloudfront.swellrewards.com
+blog.swellrewards.com
+cdn.swellrewards.com
+cdn-staging.swellrewards.com
+cdn2.swellrewards.com
+cdndev.swellrewards.com
+www2.swellrewards.com
+www.swellrewards.com
+emails.swellrewards.com
+help.swellrewards.com
+metrics.swellrewards.com
+status.swellrewards.com
+www2.swellrewards.com

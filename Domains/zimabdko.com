@@ -1,0 +1,11 @@
+www.zimabdko.com
+zimabdko.com
+mail.zimabdko.com
+www.zimabdko.com
+zimabdko.com
+www.zimabdko.com
+plesk.zimabdko.com
+server.zimabdko.com
+server.zimabdko.com
+www.server.zimabdko.com
+video.zimabdko.com

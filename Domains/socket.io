@@ -1,0 +1,11 @@
+www.socket.io
+cdn.socket.io
+cdn-orig.socket.io
+chat.socket.io
+compression.socket.io
+compression-tweets.socket.io
+cdn.socket.iocdn.socket.io
+new.socket.io
+slack.socket.io
+slack-io.socket.io
+tweets.socket.io

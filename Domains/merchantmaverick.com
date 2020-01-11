@@ -1,0 +1,10 @@
+www.merchantmaverick.com
+beta.merchantmaverick.com
+l.cdn.beta.merchantmaverick.com
+cdn.merchantmaverick.com
+beta.cdn.merchantmaverick.com
+do.cdn.merchantmaverick.com
+merchantmaverick.com
+www.merchantmaverick.com
+shop.merchantmaverick.com
+staging.merchantmaverick.com

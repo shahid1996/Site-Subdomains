@@ -1,0 +1,9 @@
+www.hookem.com
+amp.hookem.com
+api.hookem.com
+images.hookem.com
+stats.hookem.com
+test.hookem.com
+today.hookem.com
+wrap.hookem.com
+test.wrap.hookem.com

@@ -1,0 +1,13 @@
+www.shropshirestar.com
+app.shropshirestar.com
+arc-sandbox.shropshirestar.com
+baby.shropshirestar.com
+www.baby.shropshirestar.com
+beta.shropshirestar.com
+beta.shropshirestar.com
+www.shropshirestar.com
+community.shropshirestar.com
+www.community.shropshirestar.com
+dating.shropshirestar.com
+jobs.shropshirestar.com
+sandbox.shropshirestar.com

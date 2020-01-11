@@ -1,0 +1,9 @@
+www.twinpeaksrestaurant.com
+api.twinpeaksrestaurant.com
+api.staging.twinpeaksrestaurant.com
+staging.twinpeaksrestaurant.com
+twinpeaksrestaurant.com
+www.twinpeaksrestaurant.com
+edge.twinpeaksrestaurant.com
+staging.twinpeaksrestaurant.com
+api.staging.twinpeaksrestaurant.com

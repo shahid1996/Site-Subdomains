@@ -1,0 +1,8 @@
+www.themoth.org
+cdn.themoth.org
+education.themoth.org
+feeds.themoth.org
+ns2.themoth.org
+pitchline.themoth.org
+player.themoth.org
+store.themoth.org

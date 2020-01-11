@@ -1,0 +1,9 @@
+www.craftymorning.com
+cdn.craftymorning.com
+cdnphx1.craftymorning.com
+cdnqc1.craftymorning.com
+cdn.craftymorning.com
+cdnphx1.craftymorning.com
+cdnqc1.craftymorning.com
+craftymorning.com
+www.craftymorning.com

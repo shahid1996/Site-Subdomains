@@ -1,0 +1,10 @@
+www.nativecos.com
+analytics.nativecos.com
+api.nativecos.com
+nativecos.com
+www.nativecos.com
+legacy.nativecos.com
+refer.nativecos.com
+staging.nativecos.com
+bubble.test-site.nativecos.com
+sands.test-site.nativecos.com

@@ -1,0 +1,14 @@
+www.bgdailynews.com
+amplifier.bgdailynews.com
+bw.bgdailynews.com
+bw.bgdailynews.com
+www.bw.bgdailynews.com
+bgdailynews.com
+m.bgdailynews.com
+www.bgdailynews.com
+hiring.bgdailynews.com
+jobs.bgdailynews.com
+local.bgdailynews.com
+admin.local.bgdailynews.com
+m.bgdailynews.com
+webmail.bgdailynews.com

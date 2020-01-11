@@ -1,0 +1,10 @@
+www.rcfp.org
+clinics.rcfp.org
+desktop.rcfp.org
+desktop2.rcfp.org
+mail.rcfp.org
+mailserver.rcfp.org
+rcfp.org
+www.rcfp.org
+sunshineweek.rcfp.org
+webmail.rcfp.org

@@ -1,0 +1,13 @@
+www.apress.com
+cdn.apress.com
+checkout.apress.com
+apress.com
+www.apress.com
+idp.apress.com
+images.apress.com
+login.apress.com
+mis.apress.com
+publish.apress.com
+static.apress.com
+web3.apress.com
+xtranet.apress.com

@@ -1,0 +1,10 @@
+www.statisticssolutions.com
+statisticssolutions.com
+www.statisticssolutions.com
+statisticssolutions.com
+tracking.statisticssolutions.com
+www.statisticssolutions.com
+dev.statisticssolutions.com
+info.statisticssolutions.com
+ssp.statisticssolutions.com
+tracking.statisticssolutions.com

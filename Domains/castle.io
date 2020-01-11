@@ -1,0 +1,11 @@
+www.castle.io
+api.castle.io
+blog.castle.io
+changelog.castle.io
+dashboard.castle.io
+docs.castle.io
+go.castle.io
+pub.castle.io
+secure.castle.io
+t.castle.io
+ws.castle.io

@@ -1,0 +1,12 @@
+www.freshplaza.com
+b.freshplaza.com
+bnr.freshplaza.com
+cdn.freshplaza.com
+crm.freshplaza.com
+es.freshplaza.com
+market.freshplaza.com
+newsletter.freshplaza.com
+payments.freshplaza.com
+photos.freshplaza.com
+staging.freshplaza.com
+us.freshplaza.com
