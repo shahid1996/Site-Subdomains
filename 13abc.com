@@ -1,0 +1,16 @@
+www.13abc.com
+autodiscover.13abc.com
+mail.13abc.com
+dub.13abc.com
+enpsmobile.13abc.com
+enpsmobile.13abc.com
+www.enpsmobile.13abc.com
+horizon.13abc.com
+link.13abc.com
+mail.13abc.com
+modules.13abc.com
+pictures.13abc.com
+pix.13abc.com
+wifi.13abc.com
+www.wifi.13abc.com
+yellowpages.13abc.com

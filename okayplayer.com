@@ -1,0 +1,16 @@
+www.okayplayer.com
+atx.okayplayer.com
+bay.okayplayer.com
+board.okayplayer.com
+chi.okayplayer.com
+events.okayplayer.com
+la.okayplayer.com
+largeup.okayplayer.com
+lu-cdn.okayplayer.com
+nyc.okayplayer.com
+oka-cdn.okayplayer.com
+okf-cdn.okayplayer.com
+okp-cdn.okayplayer.com
+revivalist.okayplayer.com
+shop.okayplayer.com
+store.okayplayer.com

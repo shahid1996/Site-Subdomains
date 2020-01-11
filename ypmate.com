@@ -1,0 +1,10 @@
+www.ypmate.com
+ypmate.com
+www.ypmate.com
+devel.ypmate.com
+staging.ypmate.com
+integ.ypmate.com
+team.ypmate.com
+test.ypmate.com
+devel.ypmate.com
+processor.ypmate.com

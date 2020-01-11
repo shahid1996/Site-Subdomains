@@ -1,0 +1,15 @@
+www.yaml.org
+comwww.yaml.org
+qutaipei.comwww.yaml.org
+dev.yaml.org
+language.yaml.org
+one-word.yaml.org
+perl.yaml.org
+python.yaml.org
+trac.yaml.org
+type.yaml.org
+wiki.yaml.org
+word.yaml.org
+ww.yaml.org
+ww2.yaml.org
+yasl.yaml.org
