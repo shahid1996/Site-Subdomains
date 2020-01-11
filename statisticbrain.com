@@ -1,0 +1,9 @@
+www.statisticbrain.com
+statisticbrain.com
+www.statisticbrain.com
+statisticbrain.com
+webmail.statisticbrain.com
+www.statisticbrain.com
+daily.statisticbrain.com
+devz.statisticbrain.com
+trivia.statisticbrain.com

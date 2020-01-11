@@ -1,0 +1,10 @@
+www.scotusblog.com
+beta.scotusblog.com
+beta.scotusblog.com
+sh02.scotusblog.com
+scotusblog.com
+sh01.scotusblog.com
+www.scotusblog.com
+live.scotusblog.com
+sh01.scotusblog.com
+ww.scotusblog.com
