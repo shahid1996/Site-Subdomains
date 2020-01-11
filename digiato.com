@@ -1,0 +1,10 @@
+www.digiato.com
+adad.digiato.com
+digiato.com
+imap.digiato.com
+mailadmin.digiato.com
+mail.digiato.com
+smtp.digiato.com
+digiato.com
+www.digiato.com
+dev.digiato.com

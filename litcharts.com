@@ -1,0 +1,10 @@
+www.litcharts.com
+assets.litcharts.com
+assets-dev.litcharts.com
+blog.litcharts.com
+cdn.litcharts.com
+litcharts.com
+www.litcharts.com
+dummy.litcharts.com
+email.litcharts.com
+help.litcharts.com

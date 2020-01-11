@@ -1,0 +1,10 @@
+www.ourworldindata.org
+mispytest.ourworldindata.org
+ourworldindata.org
+test.ourworldindata.org
+www.ourworldindata.org
+ourworldindata.org
+test.ourworldindata.org
+www.ourworldindata.org
+slides.ourworldindata.org
+static.ourworldindata.org
