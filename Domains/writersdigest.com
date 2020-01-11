@@ -1,0 +1,16 @@
+www.writersdigest.com
+blog.writersdigest.com
+community.writersdigest.com
+dev.writersdigest.com
+ebooks.writersdigest.com
+forum.writersdigest.com
+hub.writersdigest.com
+li.writersdigest.com
+metrics.writersdigest.com
+s.metrics.writersdigest.com
+my.writersdigest.com
+www.my.writersdigest.com
+subscriptions.writersdigest.com
+tutorials.writersdigest.com
+wwwcdn.writersdigest.com
+wwwnew.writersdigest.com

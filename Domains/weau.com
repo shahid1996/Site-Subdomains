@@ -1,0 +1,12 @@
+www.weau.com
+centurylink.weau.com
+charter.weau.com
+circulars.weau.com
+filter-pii.weau.com
+local.weau.com
+mail.weau.com
+mail.weau.com
+www.mail.weau.com
+modules.weau.com
+wn.weau.com
+ww2.weau.com

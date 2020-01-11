@@ -1,0 +1,15 @@
+www.wvgazettemail.com
+advertising.wvgazettemail.com
+blogs.wvgazettemail.com
+calendar.wvgazettemail.com
+celebrations.wvgazettemail.com
+wvgazettemail.com
+www.wvgazettemail.com
+dailydeal.wvgazettemail.com
+hcc.wvgazettemail.com
+local.wvgazettemail.com
+mitel.wvgazettemail.com
+mitel.wvgazettemail.com
+www.mitel.wvgazettemail.com
+web.wvgazettemail.com
+wvbudget.wvgazettemail.com

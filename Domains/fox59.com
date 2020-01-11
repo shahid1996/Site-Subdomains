@@ -1,0 +1,12 @@
+www.fox59.com
+autodiscover.fox59.com
+circulars.fox59.com
+fox59.com
+www.fox59.com
+go.fox59.com
+lyncdiscover.fox59.com
+signin.fox59.com
+signin.fox59.com
+www.signin.fox59.com
+sip.fox59.com
+via.fox59.com

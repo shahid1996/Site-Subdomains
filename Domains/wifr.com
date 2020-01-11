@@ -1,0 +1,10 @@
+www.wifr.com
+mail.wifr.com
+autodiscover.wifr.com
+mail.wifr.com
+www.mail.wifr.com
+mail.wifr.com
+www.mail.wifr.com
+modules.wifr.com
+wn.wifr.com
+ww2.wifr.com

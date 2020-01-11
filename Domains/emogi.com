@@ -1,0 +1,9 @@
+www.emogi.com
+api.emogi.com
+cdn.emogi.com
+cxp.emogi.com
+dashboard.emogi.com
+www.dashboard.emogi.com
+events.emogi.com
+kapi.emogi.com
+search.emogi.com

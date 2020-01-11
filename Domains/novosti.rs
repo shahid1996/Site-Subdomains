@@ -1,0 +1,9 @@
+www.novosti.rs
+m.novosti.rs
+mail.novosti.rs
+rc.novosti.rs
+novosti.rs
+www.novosti.rs
+www.treceoko.novosti.rs
+www.tv.novosti.rs
+upoznajme.novosti.rs

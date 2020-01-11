@@ -1,0 +1,17 @@
+www.thebetterindia.com
+a.thebetterindia.com
+beta.thebetterindia.com
+bot.thebetterindia.com
+broadcast.thebetterindia.com
+thebetterindia.com
+www.thebetterindia.com
+hindi.thebetterindia.com
+malayalam.thebetterindia.com
+mapp.thebetterindia.com
+marketplace.thebetterindia.com
+old.thebetterindia.com
+partner.thebetterindia.com
+shop.thebetterindia.com
+staging.thebetterindia.com
+store.thebetterindia.com
+subscriptions.thebetterindia.com

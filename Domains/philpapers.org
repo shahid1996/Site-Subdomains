@@ -1,0 +1,13 @@
+auth.philpapers.org
+philpapers.org
+www.philpapers.org
+api.philpapers.org
+auth.philpapers.org
+beta.philpapers.org
+feeds.philpapers.org
+api.philpapers.org
+auth.philpapers.org
+philpapers.org
+widgets.philpapers.org
+www.philpapers.org
+widgets.philpapers.org

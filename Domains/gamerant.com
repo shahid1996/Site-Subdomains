@@ -1,0 +1,11 @@
+www.gamerant.com
+adsauth.gamerant.com
+auth.gamerant.com
+bt.gamerant.com
+cdn.gamerant.com
+community.gamerant.com
+dev.gamerant.com
+origin.gamerant.com
+profile.gamerant.com
+staging.gamerant.com
+stagingauth.gamerant.com

@@ -1,0 +1,10 @@
+www.egehaber.com
+egehaber.com
+www.egehaber.com
+autodiscover.egehaber.com
+cpanel.egehaber.com
+egehaber.com
+mail.egehaber.com
+webdisk.egehaber.com
+webmail.egehaber.com
+www.egehaber.com

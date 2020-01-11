@@ -1,0 +1,12 @@
+www.synonym.com
+assroom.synonym.com
+bit.synonym.com
+cdn-cdn-www.synonym.com
+cdn-www.synonym.com
+classroom.synonym.com
+synonym.com
+www.synonym.com
+synonym.comwww.synonym.com
+amparis.kpax.artis.frwww.synonym.com
+gid.synonym.com
+qa.synonym.com

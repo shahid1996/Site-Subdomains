@@ -1,0 +1,10 @@
+www.theawl.com
+cdn.theawl.com
+cdn0.theawl.com
+cdn2.theawl.com
+theawl.com
+www.theawl.com
+s21.theawl.com
+s23.theawl.com
+s24.theawl.com
+staging.theawl.com

@@ -1,0 +1,9 @@
+www.obsproject.com
+cdn-fastly.obsproject.com
+obsproject.com
+www.obsproject.com
+dev.obsproject.com
+fider.obsproject.com
+ideas.obsproject.com
+mx.obsproject.com
+taiga.obsproject.com

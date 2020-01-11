@@ -1,0 +1,13 @@
+www.turnto.com
+analytics.turnto.com
+www.analytics.turnto.com
+api.turnto.com
+cdn-ws.turnto.com
+developers.turnto.com
+email.turnto.com
+reviews-app.turnto.com
+shopifyapp.turnto.com
+status.turnto.com
+widgets.turnto.com
+ws.turnto.com
+static.www.turnto.com

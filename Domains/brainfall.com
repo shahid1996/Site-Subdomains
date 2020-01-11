@@ -1,0 +1,11 @@
+www.brainfall.com
+bro.brainfall.com
+c.brainfall.com
+cerebro.brainfall.com
+brainfall.com
+www.brainfall.com
+img.brainfall.com
+magic.brainfall.com
+og.brainfall.com
+sp.brainfall.com
+static.brainfall.com

@@ -1,0 +1,7 @@
+www.uppermichiganssource.com
+deals.uppermichiganssource.com
+modules.uppermichiganssource.com
+oascentral.uppermichiganssource.com
+sbg.uppermichiganssource.com
+secure.uppermichiganssource.com
+share.uppermichiganssource.com

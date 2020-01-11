@@ -1,0 +1,13 @@
+www.chiefs.com
+appearances.chiefs.com
+e.chiefs.com
+app.e.chiefs.com
+images.e.chiefs.com
+mail01.e.chiefs.com
+mail02.e.chiefs.com
+mail03.e.chiefs.com
+welcome.e.chiefs.com
+m.chiefs.com
+mi.chiefs.com
+shop.chiefs.com
+store.chiefs.com

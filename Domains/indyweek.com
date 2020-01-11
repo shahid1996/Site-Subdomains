@@ -1,0 +1,16 @@
+www.indyweek.com
+admin.indyweek.com
+a.indyweek.com
+indyweek.com
+m.indyweek.com
+p.indyweek.com
+posting.indyweek.com
+www.indyweek.com
+give.indyweek.com
+give.indyweek.com
+www.give.indyweek.com
+m.indyweek.com
+mail.indyweek.com
+www.mail.indyweek.com
+p.indyweek.com
+posting.indyweek.com

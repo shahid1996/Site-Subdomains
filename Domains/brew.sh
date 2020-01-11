@@ -1,0 +1,12 @@
+www.brew.sh
+bot.brew.sh
+chatbot.brew.sh
+discourse.brew.sh
+docs.brew.sh
+formulae.brew.sh
+jenkins.brew.sh
+rubydoc.brew.sh
+brew.sh
+docs.brew.sh
+brew.sh
+www.brew.sh

@@ -1,0 +1,10 @@
+www.fox61.com
+circulars.fox61.com
+fox61.com
+www.fox61.com
+emailads.fox61.com
+ftp1.fox61.com
+go.fox61.com
+publiccontent.fox61.com
+www.publiccontent.fox61.com
+via.fox61.com

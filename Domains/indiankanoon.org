@@ -1,0 +1,8 @@
+www.indiankanoon.org
+blog.indiankanoon.org
+laws.indiankanoon.org
+api.indiankanoon.org
+indiankanoon.org
+mirror.indiankanoon.org
+api.indiankanoon.org
+indiankanoon.org

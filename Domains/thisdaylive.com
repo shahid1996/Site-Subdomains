@@ -1,0 +1,12 @@
+www.thisdaylive.com
+cdn.akamai.thisdaylive.com
+api.thisdaylive.com
+cdn.thisdaylive.com
+thisdaylive.com
+www-test.thisdaylive.com
+www.thisdaylive.com
+mail.thisdaylive.com
+serving.thisdaylive.com
+ssl.thisdaylive.com
+stats.thisdaylive.com
+wwwi.thisdaylive.com

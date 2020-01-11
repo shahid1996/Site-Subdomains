@@ -1,0 +1,16 @@
+www.ghostscript.com
+bugs.ghostscript.com
+ghostscript.com
+www.ghostscript.com
+ghostscript.com
+git.ghostscript.com
+twiki.ghostscript.com
+www.ghostscript.com
+downloads.ghostscript.com
+git.ghostscript.com
+httpswww.ghostscript.com
+rjw.ghostscript.com
+svn.ghostscript.com
+testbugs.ghostscript.com
+testtwiki.ghostscript.com
+twiki.ghostscript.com

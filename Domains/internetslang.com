@@ -1,0 +1,9 @@
+www.internetslang.com
+cdn.internetslang.com
+cdn-5.internetslang.com
+cdn2.internetslang.com
+cdn2.internetslang.com
+internetslang.com
+www.internetslang.com
+internetslang.com
+www.internetslang.com

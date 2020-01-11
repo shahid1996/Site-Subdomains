@@ -1,0 +1,10 @@
+www.localsyr.com
+beta.localsyr.com
+localsyr.com
+www.localsyr.com
+finance.localsyr.com
+m.localsyr.com
+media.localsyr.com
+shareit.localsyr.com
+sports.localsyr.com
+www2.localsyr.com

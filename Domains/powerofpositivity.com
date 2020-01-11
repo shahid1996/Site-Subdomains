@@ -1,0 +1,16 @@
+www.powerofpositivity.com
+affiliate.powerofpositivity.com
+cdn.powerofpositivity.com
+cdn.community.powerofpositivity.com
+community.powerofpositivity.com
+cdn.powerofpositivity.com
+powerofpositivity.com
+www.powerofpositivity.com
+cdn.powerofpositivity.com
+news.powerofpositivity.com
+powerofpositivity.com
+www.powerofpositivity.com
+powerofpositivity.com
+www.powerofpositivity.com
+shop.powerofpositivity.com
+www.shop.powerofpositivity.com

@@ -1,0 +1,12 @@
+www.rosbalt.ru
+admin.rosbalt.ru
+api.rosbalt.ru
+avangard.rosbalt.ru
+img.rosbalt.ru
+img2.rosbalt.ru
+list.rosbalt.ru
+m.rosbalt.ru
+msk.rosbalt.ru
+mt.rosbalt.ru
+ns.rosbalt.ru
+static.rosbalt.ru

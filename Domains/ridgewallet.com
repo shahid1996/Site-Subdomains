@@ -1,0 +1,12 @@
+www.ridgewallet.com
+back.ridgewallet.com
+ridgewallet.com
+www.ridgewallet.com
+discover.ridgewallet.com
+get.ridgewallet.com
+m.ridgewallet.com
+returns.ridgewallet.com
+rfidblocking.ridgewallet.com
+try.ridgewallet.com
+vegan.ridgewallet.com
+wholesale.ridgewallet.com

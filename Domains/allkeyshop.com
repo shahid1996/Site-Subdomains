@@ -1,0 +1,17 @@
+www.allkeyshop.com
+affiliate.allkeyshop.com
+affiliates.allkeyshop.com
+api.allkeyshop.com
+apidev.allkeyshop.com
+click.allkeyshop.com
+cloud.allkeyshop.com
+allkeyshop.com
+www.allkeyshop.com
+dev.allkeyshop.com
+git.allkeyshop.com
+hardware.allkeyshop.com
+linguo.allkeyshop.com
+m.allkeyshop.com
+office.allkeyshop.com
+support.allkeyshop.com
+widget.allkeyshop.com

@@ -1,0 +1,11 @@
+www.wect.com
+burgaw.wect.com
+wect.com
+www.wect.com
+m.wect.com
+www.wect.com
+downtownwilmington.wect.com
+dub.wect.com
+link.wect.com
+m.wect.com
+pics.wect.com

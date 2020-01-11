@@ -1,0 +1,14 @@
+www.myfox8.com
+biz.myfox8.com
+circulars.myfox8.com
+myfox8.com
+www.myfox8.com
+emailads.myfox8.com
+events.myfox8.com
+link.myfox8.com
+login.myfox8.com
+www.login.myfox8.com
+mobile.myfox8.com
+on.myfox8.com
+search.myfox8.com
+westgreensboro.myfox8.com

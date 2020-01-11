@@ -1,0 +1,13 @@
+www.bigpicture.ru
+dev.bigpicture.ru
+www.dev.bigpicture.ru
+football.bigpicture.ru
+www.football.bigpicture.ru
+mail.bigpicture.ru
+bigpicture.ru
+www.bigpicture.ru
+shop.bigpicture.ru
+social.bigpicture.ru
+subscribe.bigpicture.ru
+travelbox.bigpicture.ru
+www.travelbox.bigpicture.ru

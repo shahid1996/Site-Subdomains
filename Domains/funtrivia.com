@@ -1,0 +1,10 @@
+www.funtrivia.com
+ask.funtrivia.com
+blog.funtrivia.com
+ask.funtrivia.com
+funtrivia.com
+www.funtrivia.com
+mail.funtrivia.com
+main.funtrivia.com
+my.funtrivia.com
+ww.w.funtrivia.com

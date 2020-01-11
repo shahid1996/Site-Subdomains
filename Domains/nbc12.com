@@ -1,0 +1,11 @@
+www.nbc12.com
+blogs.nbc12.com
+nbc12.com
+www.nbc12.com
+m.nbc12.com
+www.nbc12.com
+downtown.nbc12.com
+dub.nbc12.com
+link.nbc12.com
+m.nbc12.com
+sendit.nbc12.com

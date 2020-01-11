@@ -1,0 +1,13 @@
+www.puppyfinder.com
+ftp.puppyfinder.com
+pet.puppyfinder.com
+puppyfinder.com
+www.puppyfinder.com
+images.puppyfinder.com
+puppyfinder.com
+www.puppyfinder.com
+puppyfinder.com
+www.puppyfinder.com
+ftp.puppyfinder.com
+help.puppyfinder.com
+images.puppyfinder.com

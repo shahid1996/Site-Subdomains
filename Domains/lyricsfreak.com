@@ -1,0 +1,15 @@
+www.lyricsfreak.com
+2fwww.lyricsfreak.com
+ads.lyricsfreak.com
+album.lyricsfreak.com
+chart.lyricsfreak.com
+jmn.lyricsfreak.com
+lyricsfreak.com
+www.lyricsfreak.com
+genre.lyricsfreak.com
+hxxp_www.lyricsfreak.com
+jmn.lyricsfreak.com
+mx9.lyricsfreak.com
+relay.lyricsfreak.com
+tags.lyricsfreak.com
+wd.lyricsfreak.com

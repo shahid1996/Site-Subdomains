@@ -1,0 +1,17 @@
+www.the-gadgeteer.com
+c.the-gadgeteer.com
+cdn.the-gadgeteer.com
+static.the-gadgeteer.com
+the-gadgeteer.com
+www.the-gadgeteer.com
+the-gadgeteer.com
+www.the-gadgeteer.com
+feeds.the-gadgeteer.com
+inara.the-gadgeteer.com
+ns1.the-gadgeteer.com
+ns2.the-gadgeteer.com
+sandbox.the-gadgeteer.com
+search.the-gadgeteer.com
+srv.the-gadgeteer.com
+static.the-gadgeteer.com
+test2.the-gadgeteer.com

@@ -1,0 +1,13 @@
+www.powershow.com
+powershow.com
+www.powershow.com
+dev.powershow.com
+www.powershow.com
+dev.powershow.com
+dev1.powershow.com
+download.powershow.com
+images.powershow.com
+img.powershow.com
+stg.powershow.com
+swf.powershow.com
+www1.powershow.com

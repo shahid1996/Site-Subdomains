@@ -1,0 +1,12 @@
+www.skincancer.org
+blog.skincancer.org
+mail.skincancer.org
+autodiscover.skincancer.org
+mail.skincancer.org
+www.mail.skincancer.org
+skincancer.org
+www.skincancer.org
+provider.skincancer.org
+store.skincancer.org
+support.skincancer.org
+test.skincancer.org

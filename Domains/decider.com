@@ -1,0 +1,11 @@
+www.decider.com
+decider.com
+www.decider.com
+dcdr.decider.com
+email.decider.com
+go.decider.com
+horizon.decider.com
+links.decider.com
+media.decider.com
+newsletters.decider.com
+tags.decider.com

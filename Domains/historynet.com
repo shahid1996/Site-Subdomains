@@ -1,0 +1,13 @@
+www.historynet.com
+acceptance.historynet.com
+articles.historynet.com
+aws-origin.historynet.com
+cdn.historynet.com
+dev.historynet.com
+link.historynet.com
+link.historynet.com
+www.link.historynet.com
+ns1.historynet.com
+ns2.historynet.com
+shop.historynet.com
+staging.historynet.com

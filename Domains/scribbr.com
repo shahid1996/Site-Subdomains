@@ -1,0 +1,12 @@
+www.scribbr.com
+academic-assistant.scribbr.com
+cdn.scribbr.com
+citation-generator.scribbr.com
+test-qa-editor.scribbr.com
+test-qa.scribbr.com
+git.scribbr.com
+jobs.scribbr.com
+order.scribbr.com
+qa-cdn.scribbr.com
+test-qa.scribbr.com
+vpn.scribbr.com

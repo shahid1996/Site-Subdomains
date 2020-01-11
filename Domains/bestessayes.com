@@ -1,0 +1,9 @@
+www.bestessayes.com
+api.bestessayes.com
+www.api.bestessayes.com
+bestessayes.com
+www.bestessayes.com
+my.bestessayes.com
+www.my.bestessayes.com
+widget.bestessayes.com
+www.widget.bestessayes.com

@@ -1,0 +1,8 @@
+www.miktex.org
+api.miktex.org
+api2.miktex.org
+awstats.miktex.org
+build.miktex.org
+docs.miktex.org
+ieyasu.miktex.org
+staging.miktex.org

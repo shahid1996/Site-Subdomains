@@ -1,0 +1,15 @@
+www.everydayhoroscopes.com
+app.everydayhoroscopes.com
+www.app.everydayhoroscopes.com
+beta.everydayhoroscopes.com
+www.beta.everydayhoroscopes.com
+everydayhoroscopes.com
+www.everydayhoroscopes.com
+content.everydayhoroscopes.com
+content.everydayhoroscopes.com
+www.content.everydayhoroscopes.com
+ed.everydayhoroscopes.com
+www.ed.everydayhoroscopes.com
+mx01.everydayhoroscopes.com
+store.everydayhoroscopes.com
+www.store.everydayhoroscopes.com

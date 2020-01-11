@@ -1,0 +1,11 @@
+www.wreg.com
+circulars.wreg.com
+community.wreg.com
+emailads.wreg.com
+events.wreg.com
+link.wreg.com
+mail1.wreg.com
+mail2.wreg.com
+mobile.wreg.com
+on.wreg.com
+via.wreg.com

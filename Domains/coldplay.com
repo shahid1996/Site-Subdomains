@@ -1,0 +1,16 @@
+www.coldplay.com
+coldplay.com
+www.coldplay.com
+everydaylife.coldplay.com
+firstaccess.coldplay.com
+kaleidoscope.coldplay.com
+live2012.coldplay.com
+lrlrl.coldplay.com
+m.coldplay.com
+myahfod.coldplay.com
+scrapbook.coldplay.com
+shop.coldplay.com
+snapshots.coldplay.com
+thebutterflypackage.coldplay.com
+timeline.coldplay.com
+usshop.coldplay.com

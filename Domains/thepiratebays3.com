@@ -1,0 +1,12 @@
+www.thepiratebays3.com
+mail.thepiratebays3.com
+thepiratebays3.com
+www.thepiratebays3.com
+thepiratebays3.com
+www.thepiratebays3.com
+cpanel.thepiratebays3.com
+mail.thepiratebays3.com
+thepiratebays3.com
+webdisk.thepiratebays3.com
+webmail.thepiratebays3.com
+www.thepiratebays3.com

@@ -1,0 +1,17 @@
+www.interfax.com.ua
+ad.interfax.com.ua
+cleo.interfax.com.ua
+en.interfax.com.ua
+images.interfax.com.ua
+ua.interfax.com.ua
+en.interfax.com.ua
+interfax.com.ua
+ua.interfax.com.ua
+cleo.interfax.com.ua
+en.interfax.com.ua
+interfax.com.ua
+ua.interfax.com.ua
+en.interfax.com.ua
+interfax.com.ua
+ua.interfax.com.ua
+www.interfax.com.ua

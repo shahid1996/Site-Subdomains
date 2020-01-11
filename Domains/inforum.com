@@ -1,0 +1,9 @@
+www.inforum.com
+admin.inforum.com
+legacy.inforum.com
+local.inforum.com
+mobile.inforum.com
+motors.inforum.com
+pages.inforum.com
+register.inforum.com
+sections.inforum.com

@@ -1,0 +1,9 @@
+www.red-dot.org
+analytics.red-dot.org
+cleanen.red-dot.org
+de.red-dot.org
+www.de.red-dot.org
+en.red-dot.org
+red-dot.org
+www.red-dot.org
+staging.red-dot.org

@@ -1,0 +1,15 @@
+www.news10.com
+v1-1.api.news10.com
+v1-1.api.news10.com
+www.v1-1.api.news10.com
+news10.com
+www.news10.com
+dub.news10.com
+horizon.news10.com
+interactives.news10.com
+link.news10.com
+m.news10.com
+media.news10.com
+rewards.news10.com
+webmail.news10.com
+wx.news10.com

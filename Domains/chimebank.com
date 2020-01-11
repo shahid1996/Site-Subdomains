@@ -1,0 +1,17 @@
+www.chimebank.com
+api-v2.chimebank.com
+chimebank.com
+dev.chimebank.com
+chimebank.com
+www.chimebank.com
+chimebank.com
+dev.chimebank.com
+www.chimebank.com
+dev.chimebank.com
+developer.chimebank.com
+member.chimebank.com
+securelinks.chimebank.com
+status.chimebank.com
+test-wp.chimebank.com
+webhook.chimebank.com
+www2.chimebank.com

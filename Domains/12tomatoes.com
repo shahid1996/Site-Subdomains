@@ -1,0 +1,10 @@
+www.12tomatoes.com
+api.12tomatoes.com
+beta.12tomatoes.com
+food.12tomatoes.com
+preview.12tomatoes.com
+recipe.12tomatoes.com
+related.12tomatoes.com
+shop.12tomatoes.com
+store.12tomatoes.com
+test.12tomatoes.com

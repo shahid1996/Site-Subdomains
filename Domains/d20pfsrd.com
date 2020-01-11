@@ -1,0 +1,10 @@
+www.d20pfsrd.com
+d20pfsrd.com
+www.d20pfsrd.com
+d20pfsrd.com
+pf2.d20pfsrd.com
+www.d20pfsrd.com
+pf2.d20pfsrd.com
+prd.d20pfsrd.com
+shop.d20pfsrd.com
+ww.d20pfsrd.com

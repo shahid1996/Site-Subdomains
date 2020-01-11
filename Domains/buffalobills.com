@@ -1,0 +1,14 @@
+www.buffalobills.com
+assets.buffalobills.com
+blogs.buffalobills.com
+boards.buffalobills.com
+buffalobills.com
+www.buffalobills.com
+email.buffalobills.com
+history.buffalobills.com
+www.history.buffalobills.com
+li.buffalobills.com
+m.buffalobills.com
+media.buffalobills.com
+throwback.buffalobills.com
+access.www.buffalobills.com

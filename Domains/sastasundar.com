@@ -1,0 +1,9 @@
+www.sastasundar.com
+article.sastasundar.com
+blog.sastasundar.com
+catalog.sastasundar.com
+cp.sastasundar.com
+labapi.sastasundar.com
+res.sastasundar.com
+res3.sastasundar.com
+search.sastasundar.com

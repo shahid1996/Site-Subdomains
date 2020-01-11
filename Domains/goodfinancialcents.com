@@ -1,0 +1,9 @@
+www.goodfinancialcents.com
+1kchallenge.goodfinancialcents.com
+bundrick.goodfinancialcents.com
+dev.goodfinancialcents.com
+gcloud.goodfinancialcents.com
+go.goodfinancialcents.com
+learn.goodfinancialcents.com
+quotes.goodfinancialcents.com
+staging.goodfinancialcents.com

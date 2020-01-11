@@ -1,0 +1,3 @@
+www.collegefootballnews.com
+collegefootballnews.com
+www.collegefootballnews.com

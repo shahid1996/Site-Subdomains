@@ -1,0 +1,17 @@
+www.podtrac.com
+analytics.podtrac.com
+audience.podtrac.com
+dts.podtrac.com
+feeds.podtrac.com
+feeds-origin.podtrac.com
+hosting.podtrac.com
+mail.podtrac.com
+next.podtrac.com
+ns1.podtrac.com
+ns2.podtrac.com
+pingback.podtrac.com
+play.podtrac.com
+player.podtrac.com
+publisher.podtrac.com
+survey.podtrac.com
+web1-east.podtrac.com

@@ -1,0 +1,12 @@
+www.fapality.com
+cdn.fapality.com
+i.fapality.com
+i2.fapality.com
+i3.fapality.com
+i4.fapality.com
+i5.fapality.com
+m.fapality.com
+r.fapality.com
+rt.fapality.com
+ru.fapality.com
+rus.fapality.com

@@ -1,0 +1,10 @@
+new.yiiframework.com
+www.yiiframework.com
+yiiframework.com
+www.yiiframework.com
+bot.yiiframework.com
+forum.yiiframework.com
+www.forum.yiiframework.com
+new.yiiframework.com
+www.new.yiiframework.com
+user-content.yiiframework.com

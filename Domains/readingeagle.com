@@ -1,0 +1,12 @@
+www.readingeagle.com
+banman.readingeagle.com
+berkscountry.readingeagle.com
+blogcenter.readingeagle.com
+businessweekly.readingeagle.com
+checkout.readingeagle.com
+exchange.readingeagle.com
+helpdesk.readingeagle.com
+internetservices.readingeagle.com
+projects.readingeagle.com
+subscribe.readingeagle.com
+www2.readingeagle.com

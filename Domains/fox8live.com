@@ -1,0 +1,10 @@
+www.fox8live.com
+fox8live.com
+www.fox8live.com
+m.fox8live.com
+www.fox8live.com
+dub.fox8live.com
+link.fox8live.com
+m.fox8live.com
+sendit.fox8live.com
+weekend.fox8live.com

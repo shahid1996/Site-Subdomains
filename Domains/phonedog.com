@@ -1,0 +1,17 @@
+www.phonedog.com
+a.phonedog.com
+analytics.phonedog.com
+assets.phonedog.com
+aws.phonedog.com
+bt.phonedog.com
+phonedog.com
+www.phonedog.com
+docs.phonedog.com
+feeds.phonedog.com
+forums.phonedog.com
+img.phonedog.com
+instantwin.phonedog.com
+m.phonedog.com
+r.phonedog.com
+store.phonedog.com
+tech-faq.phonedog.com

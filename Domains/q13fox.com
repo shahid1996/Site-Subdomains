@@ -1,0 +1,9 @@
+www.q13fox.com
+circulars.q13fox.com
+q13fox.com
+www.q13fox.com
+go.q13fox.com
+signin.q13fox.com
+www.signin.q13fox.com
+via.q13fox.com
+video.q13fox.com

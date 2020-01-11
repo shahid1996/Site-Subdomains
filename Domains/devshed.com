@@ -1,0 +1,15 @@
+www.devshed.com
+archives.devshed.com
+devshed.com
+www.devshed.com
+cpanel.devshed.com
+devshed.com
+mail.devshed.com
+webdisk.devshed.com
+webmail.devshed.com
+www.devshed.com
+forums.devshed.com
+images.devshed.com
+seotools.devshed.com
+tools.devshed.com
+webhosting.devshed.com

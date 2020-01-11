@@ -1,0 +1,17 @@
+www.adport.io
+api.adport.io
+cdn.adport.io
+docs.adport.io
+adport.io
+www.adport.io
+media.adport.io
+api.nyc1.adport.io
+docs.nyc1.adport.io
+r.nyc1.adport.io
+rtb.nyc1.adport.io
+t.nyc1.adport.io
+r.adport.io
+r-nyc1.adport.io
+rtb.adport.io
+t.adport.io
+trk.adport.io

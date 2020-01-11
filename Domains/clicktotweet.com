@@ -1,0 +1,9 @@
+www.clicktotweet.com
+app.clicktotweet.com
+blog.clicktotweet.com
+clicktotweet.com
+www.clicktotweet.com
+email.clicktotweet.com
+revive.clicktotweet.com
+revive.clicktotweet.com
+www.revive.clicktotweet.com

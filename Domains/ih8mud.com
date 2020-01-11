@@ -1,0 +1,14 @@
+www.ih8mud.com
+cdn-forum.ih8mud.com
+cdn-wp.ih8mud.com
+cdn-xf.ih8mud.com
+cdn-xf-data.ih8mud.com
+cdn-xf-js.ih8mud.com
+cdn-xf-styles.ih8mud.com
+ih8mud.com
+www.ih8mud.com
+dev.ih8mud.com
+forum.ih8mud.com
+forumcdn.ih8mud.com
+gallery.ih8mud.com
+medusa.ih8mud.com

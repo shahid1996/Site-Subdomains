@@ -1,0 +1,9 @@
+www.fakespot.com
+api.fakespot.com
+nlp.api.fakespot.com
+fakespot.com
+www.fakespot.com
+gl.fakespot.com
+news.fakespot.com
+nlp-api.fakespot.com
+staging.fakespot.com

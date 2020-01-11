@@ -1,0 +1,3 @@
+www.thearchitectsguide.com
+members.thearchitectsguide.com
+resources.thearchitectsguide.com

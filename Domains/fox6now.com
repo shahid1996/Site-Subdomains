@@ -1,0 +1,12 @@
+www.fox6now.com
+autodiscover.fox6now.com
+circulars.fox6now.com
+fox6now.com
+www.fox6now.com
+community.fox6now.com
+login.fox6now.com
+www.login.fox6now.com
+on.fox6now.com
+search.fox6now.com
+to.fox6now.com
+via.fox6now.com

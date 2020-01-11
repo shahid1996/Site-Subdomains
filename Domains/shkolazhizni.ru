@@ -1,0 +1,12 @@
+www.shkolazhizni.ru
+amp.shkolazhizni.ru
+beta.shkolazhizni.ru
+dev.shkolazhizni.ru
+lambi.shkolazhizni.ru
+love.shkolazhizni.ru
+m.shkolazhizni.ru
+m.shkolazhizni.ru
+shkolazhizni.ru
+win.shkolazhizni.ru
+www.shkolazhizni.ru
+win.shkolazhizni.ru

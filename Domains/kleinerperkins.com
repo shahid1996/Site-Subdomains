@@ -1,0 +1,10 @@
+www.kleinerperkins.com
+apps.kleinerperkins.com
+okta.kleinerperkins.com
+wiki.kleinerperkins.com
+kleinerperkins.com
+www.kleinerperkins.com
+connect.kleinerperkins.com
+fellows.kleinerperkins.com
+reporting.kleinerperkins.com
+rsvp.kleinerperkins.com

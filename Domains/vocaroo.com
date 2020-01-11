@@ -1,0 +1,15 @@
+s0.vocaroo.com
+s1.vocaroo.com
+vocaroo.com
+s0.vocaroo.com
+vocaroo.com
+s1.vocaroo.com
+vocaroo.com
+www.vocaroo.com
+beta.vocaroo.com
+media.vocaroo.com
+old.vocaroo.com
+s0.vocaroo.com
+s1.vocaroo.com
+upload1.vocaroo.com
+upload2.vocaroo.com

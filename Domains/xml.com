@@ -1,0 +1,9 @@
+www.xml.com
+123.xml.com
+admin.xml.com
+careers.xml.com
+native.xml.com
+search.xml.com
+w3.xml.com
+webservices.xml.com
+yahoo.xml.com

@@ -1,0 +1,9 @@
+www.mosalasonline.com
+charje.mosalasonline.com
+mosalasonline.com
+static0.mosalasonline.com
+static1.mosalasonline.com
+static2.mosalasonline.com
+static3.mosalasonline.com
+websocket.mosalasonline.com
+www.mosalasonline.com

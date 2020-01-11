@@ -1,0 +1,16 @@
+www.michaelmoore.com
+api.michaelmoore.com
+blog.michaelmoore.com
+api.michaelmoore.com
+michaelmoore.com
+www.michaelmoore.com
+michaelmoore.com
+www.michaelmoore.com
+dogeatdog.michaelmoore.com
+api.dev.env.michaelmoore.com
+api.staging.env.michaelmoore.com
+dev.env.michaelmoore.com
+staging.env.michaelmoore.com
+dev.env.michaelmoore.com
+staging.env.michaelmoore.com
+maillist.michaelmoore.com

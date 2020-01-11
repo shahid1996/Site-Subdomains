@@ -1,0 +1,9 @@
+www.gamewatcher.com
+gamewatcher.com
+www.gamewatcher.com
+gamewatcher.com
+shout.gamewatcher.com
+staging.gamewatcher.com
+www.gamewatcher.com
+shout.gamewatcher.com
+staging.gamewatcher.com

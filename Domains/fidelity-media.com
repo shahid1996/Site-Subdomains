@@ -1,0 +1,27 @@
+ds1.fidelity-media.com
+fidelity-media.com
+www.fidelity-media.com
+"x.fidelity-media.com
+2 x.fidelity-media.com
+ads.fidelity-media.com
+cdnvx.fidelity-media.com
+ds1.fidelity-media.com
+m.fidelity-media.com
+fidelity-media.com
+x.fidelity-media.com
+www.x.fidelity-media.com
+x.fidelity-media.com
+x.fidelity-media.comx.fidelity-media.com
+hb.fidelity-media.com
+hbm-wp.fidelity-media.com
+m.fidelity-media.com
+mail.fidelity-media.com
+mvx.fidelity-media.com
+report-x.fidelity-media.com
+stats.fidelity-media.com
+t.fidelity-media.com
+test.fidelity-media.com
+tracking.fidelity-media.com
+vx.fidelity-media.com
+word.fidelity-media.com
+x.fidelity-media.com

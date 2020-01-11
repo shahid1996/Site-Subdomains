@@ -1,0 +1,12 @@
+www.kxii.com
+enps.kxii.com
+www.enps.kxii.com
+mail.kxii.com
+autodiscover.kxii.com
+mail.kxii.com
+www.mail.kxii.com
+mail.kxii.com
+www.mail.kxii.com
+modules.kxii.com
+ww2.kxii.com
+www2.kxii.com

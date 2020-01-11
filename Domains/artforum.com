@@ -1,0 +1,10 @@
+www.artforum.com
+388906-webdb.artforum.com
+806880-webdb2.artforum.com
+ads.artforum.com
+artforum.com
+www.artforum.com
+dev.artforum.com
+fulfill.artforum.com
+preview.artforum.com
+webmail.artforum.com

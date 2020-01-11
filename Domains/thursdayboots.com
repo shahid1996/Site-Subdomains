@@ -1,0 +1,17 @@
+www.thursdayboots.com
+blog.thursdayboots.com
+blog.thursdayboots.com
+www.blog.thursdayboots.com
+autodiscover.blog.thursdayboots.com
+blog.thursdayboots.com
+cpanel.blog.thursdayboots.com
+mail.blog.thursdayboots.com
+webdisk.blog.thursdayboots.com
+webmail.blog.thursdayboots.com
+www.blog.thursdayboots.com
+thursdayboots.com
+www.thursdayboots.com
+exchanges.thursdayboots.com
+get.thursdayboots.com
+returns.thursdayboots.com
+shop.thursdayboots.com

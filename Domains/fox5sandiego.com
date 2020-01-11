@@ -1,0 +1,10 @@
+www.fox5sandiego.com
+circulars.fox5sandiego.com
+fox5sandiego.com
+www.fox5sandiego.com
+e.fox5sandiego.com
+emailads.fox5sandiego.com
+mobile.fox5sandiego.com
+signin.fox5sandiego.com
+www.signin.fox5sandiego.com
+video.fox5sandiego.com

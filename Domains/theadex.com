@@ -1,0 +1,16 @@
+www.theadex.com
+api.theadex.com
+base.theadex.com
+batch.theadex.com
+theadex.com
+www.theadex.com
+de.theadex.com
+dmp.theadex.com
+www.dmp.theadex.com
+groupm.theadex.com
+hbbtv.theadex.com
+git01.int03.theadex.com
+mobile.theadex.com
+ssldmp.theadex.com
+static.theadex.com
+xpl.theadex.com

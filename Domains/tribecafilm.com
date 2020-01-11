@@ -1,0 +1,12 @@
+www.tribecafilm.com
+andwww.tribecafilm.com
+api.tribecafilm.com
+tribecafilm.com
+www.tribecafilm.com
+datakal.tribecafilm.com
+extranet.tribecafilm.com
+fbtiki.tribecafilm.com
+media.tribecafilm.com
+news.tribecafilm.com
+tickets.tribecafilm.com
+wwww.tribecafilm.com

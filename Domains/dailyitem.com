@@ -1,0 +1,15 @@
+www.dailyitem.com
+archive.dailyitem.com
+circulars.dailyitem.com
+dailyitem.com
+m.dailyitem.com
+www.dailyitem.com
+coupons.dailyitem.com
+obituaries.danvillenews.dailyitem.com
+findnsave.dailyitem.com
+login.dailyitem.com
+m.dailyitem.com
+marketplace.dailyitem.com
+newspaperads.dailyitem.com
+obituaries.dailyitem.com
+photos.dailyitem.com

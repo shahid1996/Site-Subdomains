@@ -1,0 +1,13 @@
+www.khodrotak.com
+khodrotak.com
+mail.khodrotak.com
+www.khodrotak.com
+khodrotak.com
+static0.khodrotak.com
+static1.khodrotak.com
+static2.khodrotak.com
+static3.khodrotak.com
+websocket.khodrotak.com
+www.khodrotak.com
+static1.khodrotak.com
+static3.khodrotak.com

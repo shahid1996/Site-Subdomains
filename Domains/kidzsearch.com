@@ -1,0 +1,14 @@
+www.kidzsearch.com
+ai.kidzsearch.com
+blog.kidzsearch.com
+kidzsearch.com
+www.kidzsearch.com
+games.kidzsearch.com
+net.kidzsearch.com
+ns.kidzsearch.com
+play.kidzsearch.com
+s3.kidzsearch.com
+search.kidzsearch.com
+srv.kidzsearch.com
+video.kidzsearch.com
+wiki.kidzsearch.com

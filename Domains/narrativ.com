@@ -1,0 +1,14 @@
+www.narrativ.com
+api.narrativ.com
+blog.narrativ.com
+blog.narrativ.com
+www.blog.narrativ.com
+dashboard.narrativ.com
+docs.narrativ.com
+jenkins.narrativ.com
+jenkins2.narrativ.com
+staging-api.narrativ.com
+staging-dashboard.narrativ.com
+staging-k8s.narrativ.com
+static.narrativ.com
+vpn2.narrativ.com

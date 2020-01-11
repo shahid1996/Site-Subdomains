@@ -1,0 +1,10 @@
+www.nbc29.com
+admin.nbc29.com
+calendar.nbc29.com
+nbc29.com
+www.nbc29.com
+dub.nbc29.com
+horizon.nbc29.com
+jobspot.nbc29.com
+link.nbc29.com
+m.nbc29.com

@@ -1,0 +1,15 @@
+www.androidpit.com
+ads.androidpit.com
+cellphoneplans.androidpit.com
+androidpit.com
+www.androidpit.com
+deals.androidpit.com
+jobs.androidpit.com
+redirect.news.androidpit.com
+polls.androidpit.com
+redirect.androidpit.com
+staging1.androidpit.com
+staging1b.androidpit.com
+staging2.androidpit.com
+staging2b.androidpit.com
+video.androidpit.com

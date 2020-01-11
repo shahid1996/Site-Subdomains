@@ -1,0 +1,10 @@
+www.dailywritingtips.com
+dailywritingtips.com
+www.dailywritingtips.com
+autodiscover.dailywritingtips.com
+cpanel.dailywritingtips.com
+dailywritingtips.com
+mail.dailywritingtips.com
+webdisk.dailywritingtips.com
+webmail.dailywritingtips.com
+www.dailywritingtips.com
