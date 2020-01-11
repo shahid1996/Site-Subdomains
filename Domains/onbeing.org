@@ -1,0 +1,16 @@
+www.onbeing.org
+api.onbeing.org
+api-staging.onbeing.org
+autodiscover.onbeing.org
+beta.onbeing.org
+blog.onbeing.org
+engage.onbeing.org
+kristasblog.onbeing.org
+onbeing.org
+www.onbeing.org
+beta.onbeing.org
+onbeing.org
+www.onbeing.org
+origin-www.onbeing.org
+ssl.onbeing.org
+staging.onbeing.org

@@ -1,0 +1,15 @@
+www.livesport.ws
+moon.livesport.ws
+pluto.livesport.ws
+static.livesport.ws
+static1.livesport.ws
+static2.livesport.ws
+static3.livesport.ws
+static4.livesport.ws
+static5.livesport.ws
+stream.livesport.ws
+sun.livesport.ws
+st1.livesport.ws
+static.livesport.ws
+beta.livesport.ws
+livesport.ws

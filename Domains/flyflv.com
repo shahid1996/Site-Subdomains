@@ -1,0 +1,12 @@
+www.flyflv.com
+assets.flyflv.com
+cdn.flyflv.com
+flyflv.com
+www.flyflv.com
+dev.flyflv.com
+assets.dev.flyflv.com
+1.download.flyflv.com
+mail.flyflv.com
+mail2.flyflv.com
+static.flyflv.com
+video.flyflv.com

@@ -1,0 +1,5 @@
+www.cmake.org
+discourse.cmake.org
+cmake.org
+www.cmake.org
+w.cmake.org

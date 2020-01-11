@@ -1,0 +1,15 @@
+www.columbiamissourian.com
+columbiamissourian.com
+m.columbiamissourian.com
+www.columbiamissourian.com
+columbiamissourian.com
+m.columbiamissourian.com
+media.columbiamissourian.com
+mobile.columbiamissourian.com
+www.columbiamissourian.com
+media.columbiamissourian.com
+mobile.columbiamissourian.com
+projects.columbiamissourian.com
+training.columbiamissourian.com
+www.training.columbiamissourian.com
+transition.columbiamissourian.com

@@ -1,0 +1,12 @@
+www.gwinnettdailypost.com
+buyga.gwinnettdailypost.com
+gwinnettdailypost.com
+m.gwinnettdailypost.com
+www.gwinnettdailypost.com
+m.gwinnettdailypost.com
+marketplace.gwinnettdailypost.com
+proofs.gwinnettdailypost.com
+services.gwinnettdailypost.com
+sports.gwinnettdailypost.com
+webmail.gwinnettdailypost.com
+winatripandcar.gwinnettdailypost.com

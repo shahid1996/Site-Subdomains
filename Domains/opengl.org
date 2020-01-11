@@ -1,0 +1,5 @@
+www.opengl.org
+beta.opengl.org
+mail.opengl.org
+opengl.org
+www.opengl.org
