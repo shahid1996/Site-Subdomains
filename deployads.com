@@ -1,0 +1,11 @@
+www.deployads.com
+assets.deployads.com
+c.deployads.com
+deals.deployads.com
+e.deployads.com
+frame.deployads.com
+pbs.deployads.com
+results.deployads.com
+ssp.deployads.com
+tags.deployads.com
+tags-cdn.deployads.com

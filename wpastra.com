@@ -1,0 +1,13 @@
+www.wpastra.com
+wpastra.com
+www.wpastra.com
+developers.wpastra.com
+drive.wpastra.com
+learndash.wpastra.com
+rt-staging.wpastra.com
+sites.wpastra.com
+speedtest.wpastra.com
+staging.wpastra.com
+stat.wpastra.com
+translate.wpastra.com
+uabb.wpastra.com

@@ -1,0 +1,13 @@
+www.manuscriptcentral.com
+acs.manuscriptcentral.com
+cn03.manuscriptcentral.com
+mc.manuscriptcentral.com
+mc03.manuscriptcentral.com
+mc04.manuscriptcentral.com
+mc05.manuscriptcentral.com
+mc06.manuscriptcentral.com
+mchelp.manuscriptcentral.com
+mcv3help.manuscriptcentral.com
+reports01.manuscriptcentral.com
+reports02.manuscriptcentral.com
+reports03.manuscriptcentral.com
