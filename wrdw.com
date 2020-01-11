@@ -1,0 +1,12 @@
+www.wrdw.com
+circulars.wrdw.com
+mail.wrdw.com
+autodiscover.wrdw.com
+mail.wrdw.com
+wrdw.com
+www.mail.wrdw.com
+mail.wrdw.com
+www.mail.wrdw.com
+modules.wrdw.com
+wn.wrdw.com
+ww2.wrdw.com
