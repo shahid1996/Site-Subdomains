@@ -10,7 +10,8 @@ www.blog.bumble.com
 bma.bumble.com
 bmaeu.bumble.com
 bmaus.bumble.com
-ambassador.bumble.com<BR>amb.bumble.com
+ambassador.bumble.com
+amb.bumble.com
 docs.bumble.com
 dphotos-eu1.bumble.com
 eu1.bumble.com
