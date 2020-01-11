@@ -1,0 +1,15 @@
+www.gamejolt.com
+api.gamejolt.com
+data3.cdn.gamejolt.com
+certbot.gamejolt.com
+chat.gamejolt.com
+chat-01.gamejolt.com
+gamejolt.com
+www.gamejolt.com
+fireside.gamejolt.com
+grid.gamejolt.com
+help.gamejolt.com
+jams.gamejolt.com
+web-01.gamejolt.com
+web-02.gamejolt.com
+web-03.gamejolt.com

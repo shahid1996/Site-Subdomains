@@ -1,0 +1,17 @@
+www.comparitech.com
+api.comparitech.com
+cdn.comparitech.com
+cdn.dev.comparitech.com
+dev.comparitech.com
+api.comparitech.com
+dnstestserver.comparitech.com
+cdn.tmp.comparitech.com
+tmp.comparitech.com
+cdn.comparitech.com
+comparitech.com
+www.comparitech.com
+comparitech.com
+www.comparitech.com
+dnstestserver.comparitech.com
+tmp.comparitech.com
+cdn.tmp.comparitech.com
